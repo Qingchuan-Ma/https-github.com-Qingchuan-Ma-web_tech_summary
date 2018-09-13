@@ -1,0 +1,30 @@
+<html>
+<head>
+<title>
+   Qingchuan-Ma's Website
+</title>
+{% load bootstrap3 %}
+{% bootstrap_css %}
+{% bootstrap_javascript %}
+{% bootstrap_messages %}
+{% load static %}
+<link rel="stylesheet" type="text/css" href="{% static 'polls/style.css' %}"/>
+</head>
+<body style="text-align:center">
+
+
+  <h1>Welcome to my website!</h1>
+    <ul>
+       <li><a href="{% url 'polls:index' %}"> Here is a poll</a></li>
+       <li><a href="{% url 'Questionare:index' %}"> Here is a Questionare for homework 9</a></li>
+       <li><a href="http://47.100.116.1:8088/restdemo/"> Here is a RESTful API demo</a></li>
+       <li><a href="{% url 'bootstrapdemo:index' %}"> Here is a bootstrapdemo for django</a></li>
+    </ul>
+
+
+
+1. 没有处理好这results.html按钮和表格的上下关系<br>
+2. 同时两个端口功能有没完全隔开。这是由我返回键的函数设定和和index.html中链接设定而导致的(都已解决)
+
+</body>
+</html>

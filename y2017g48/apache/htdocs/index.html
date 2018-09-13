@@ -1,0 +1,537 @@
+<!DOCTYPE html>
+<html lang="en">
+	<meta charset="utf-8">
+	<title>Ma-Qingchuan's HomePage</title>
+	<link href="./css/jquery-ui.css" rel="stylesheet">
+	<style>
+	body{
+			font-family: "Trebuchet MS", sans-serif;
+			margin: 50px;
+			background-image:url('./images/background.jpg');
+	  	background-color:#cccccc ;
+			background-size:cover;
+			background-position: center;
+			background-attachment:fixed;
+	}
+
+	#tabs {
+		opacity: 0.8;
+	}
+
+	h1 {
+		font-size:40px;
+		color: #fafafa;
+		letter-spacing: 0;
+		text-shadow: 0px 1px 0px #999, 0px 2px 0px #888, 0px 3px 0px #777, 0px 4px 0px #666, 0px 5px 0px #555, 0px 6px 0px #444, 0px 7px 0px #333, 0px 8px 7px #001135
+	}
+
+	hr {
+		height:3px;
+		border:3px;
+		border-top:3px
+		double
+		blue;
+		width:100%;
+	}
+
+	a.tag:link {
+    font-size: 16pt;
+    color: #0000cc;
+    font-family: 宋体;
+    text-align: left;
+    text-decoration: underline;
+    TEXT-DECORATION:none;
+	}
+	a.tag:visited {
+    font-size: 18pt;
+    color: #0000cc;
+    font-family: 宋体;
+    text-align: left;
+    text-decoration: underline;
+    TEXT-DECORATION:none;
+	}
+	a.tag:hover {
+    color: #993300;
+    text-decoration: underline;
+    TEXT-DECORATION:none;
+	}
+	a.tag:active {
+    color: #ff0033;
+    text-decoration: none;
+	}
+	p.out {
+		text-align: center;
+	}
+	h2 {
+		text-align: center;
+	}
+	h1{
+		text-align: center;
+	}
+	h3.out{
+		text-align: center;
+	}
+	</style>
+</head>
+
+
+<body>
+
+
+<!--title-->
+<div>
+	<h1 >Welcome to Ma-Qingchuan's HomePage!</h1>
+	<div class="ui-widget" style="text-align:center">
+		<p class="out">This page is set up by jQuery UI.</p>
+	</div>
+	<div style="text-align:center">
+		<a href=#Intro class="tag">Introduction</a>&emsp;
+		<a href=#Homework class="tag">Homework</a>&emsp;
+		<a href=#Contact class="tag">Contact</a>
+	</div>
+</div>
+
+
+<!--introduction-->
+<hr />
+<div>
+	<a ID="Intro" ><h2>Introduction</h2></a>
+	<p class="out">
+		This page is used for course --- Web Software Technology, and the homework that I did would be uploaded to this page.
+	</p>
+
+	<p class="out">
+		The picture below links to my personal webside (blog).<br />
+		<a href="https://qingchuan-ma.github.io/blog/">
+			<img src="./images/blog.png" alt="linking to my blog"/>
+		</a>
+	</p>
+
+	<h3 class="out">Thanks For Your Visiting!</h3>
+	</div>
+
+
+<!--my homework-->
+<hr />
+<div>
+	<a ID="Homework"  ><h2>Homework</h2></a>
+	<p class="out"> Listed below is my all homework. </p>
+
+	<div id="tabs">
+  	<ul>
+    	<li><a href="#tabs-1">1</a></li>
+    	<li><a href="#tabs-2">2</a></li>
+    	<li><a href="#tabs-3">3</a></li>
+			<li><a href="#tabs-4">4</a></li>
+			<li><a href="#tabs-5">5</a></li>
+			<li><a href="#tabs-6">6</a></li>
+			<li><a href="#tabs-7">7</a></li>
+			<li><a href="#tabs-8">8</a></li>
+			<li><a href="#tabs-9">9</a></li>
+			<li><a href="#tabs-10">10</a></li>
+
+  	</ul>
+  	<div id="tabs-1">
+    	<h3>Here is my First Homework</h3>
+			<h4>Homework1.1: For the three categories of web software technology we've just defined, you are asked to find out which category so-called "Chrome plug-in" technology belongs to. Please describe the basic idea of the technology, and give your reasoning on its position in the technology categories.</h4>
+			<p class="in">
+				I think "Chrome plug-in" belongs to "productivity and quality-oriented technologies".because they are designed to help us to surf the internet more smoothly so that creating quality web services. For example, preview-pdf-file plug-in makes it more convenient to quickily to get the information about the pdf online instead of waiting the downloading process over. So this is belongs to "productivivty and quality-oriented technologies".
+			</p>
+			<h4>Homework 1.2:In a normal intercommunication between Web browser and Web Server, Web Server closes the network communication right after it sends back the document requested by the browser. Think about this statusless character of World Wide Web. Give some good points and bad points of it. Can a web server know exactly how many browsers are reading its document?</h4>
+			<p class="in">
+				Good Point:<br />
+				After transmitting the document, the web server immediately closes the TCP, which can make server have more time to deal with other browsers' request, Moreover, Server TCP has the maximum number of connections, if not closed, too much visitor will lead to the server tcp port blocked.<br />
+				Bad Point:<br />
+				If we are browsering many websides which are very similiar with each other at the same time, the connecting repeatedly will also waste much time and transmite a lot of the same data, it's the bad point I can considered.<br />
+				I think the server unable to know how many browsers are reading its document, because the server closes the TCP after transmitting the document data, which means that serve will not know when the browser closes the document. So I think the server unable to know how many browsers are reading the document.
+			</p>
+
+  	</div>
+
+
+  	<div id="tabs-2">
+    	<h3>Here is my Second Homework</h3>
+
+			The wesite that I estabished is
+			<a href="http://162.105.146.180:8048/"> Homepage </a></br>
+
+
+
+			The website that dosen't use third-part library is
+			<a href="/homepage.html"> homepage </a>
+
+
+			<h4>The Table:</h4>
+
+			<table border="1"> <!--A table of all homework-->
+				<tr>
+					<th colspan="3">Homework about table</th>
+				</tr>
+				<tr>
+					<td rowspan="2">two blocks</td>
+					<td>&emsp;test_one&emsp;</td>
+					<td>&emsp;test_two&emsp;</td>
+				</tr>
+				<tr>
+					<td>&emsp;result_one&emsp;</td>
+					<td>&emsp;result_two&emsp;</td>
+				</tr>
+			</table>
+
+			<h4>Also my page has passed HTML5 validation through the use of the
+				<a href="/result.html"> W3C Markup 	Validator (Result)</a> </h4>
+		</div>
+
+
+  	<div id="tabs-3">
+    	<h3>Here is my Third Homework</h3>
+			<h4>Homework 3.1:</h4>
+			<a href="./homework3_1.html"> homework 3.1</a></br>
+
+			<h4>Homework 3.2:</h4>
+			<a href="./homework3_2.html"> homework 3.2 </a></br>
+  	</div>
+
+
+  	<div id="tabs-4">
+    	<h3>Here is my Fourth Homework</h3>
+			<h4>Homework 4.1:
+			Answer the three questions asked in the course.<br>
+			1.Give the SELECT command to answer the question Who will go to the party held in Peking University? <br>
+			2.Figure out a way to obtain the column labels returned by mysql_fetch_array.<br>
+			3.tell the difference between a CGI program and a PHP program executed by a Web Server. <br >
+			</h4>
+			1.
+			<pre>
+SELECT party.Guest_ID, Guest_Name,Age,Gender,E_mail,Place
+FROM guest,party,guest-party
+WHERE guest-party.Guest_ID=guest.Guest_ID
+AND party.Party_Num=guest-party.Party-Num
+AND Place='Peking University'
+			</pre>
+			<br>
+			2.
+			<pre>
+while($row_i = each($row))
+{
+	$column_label = $row_i["key"];
+	$column_name = $row_i["value"];
+	if(is_int($colomn_label))
+	{
+		$column_number = $column_label;
+		$column_name2 = $column_name;
+	}
+	if($column_name == $column_name2)
+	{
+		print("The columelabel:$column_label has the number $colum_number");
+	}
+}
+			</pre>
+			<br>
+			3.<br>
+			<b>On the one hand</b> <br>php processor is one integrated part of Web Server. As for Apache, PHP processor can be comiled into the Apache or loaded as a module.This means that php is directly executed by php processor when the processor meets tag '?php',finally print the html for us.<br>
+			<b>On the other hand</b> <br>cgi needs us to input information and create a request, then the Web server goes to find CGI file to execute and collect information to print a html file.<br><br>
+			<b>In a Word</b>, php is a part of Web Server, but CGI is a protocol between Server and a independent process.
+			<br>
+
+			<h4>Homework 4.2:Set up PHP for your Apache and test it.</h4>
+			<a href="./php/first.php"> SET UP SECCESSFUL! THE LINK IS ./FIRST.PHP</a>
+
+			<h4>Homework 4.3-4.5:Transform the guest book that you implemented in week 3 into a Database version.</h4>
+			<a href="/homework4_1.html"> homework4.3-4.5 </a>
+
+
+
+  	</div>
+
+
+  	<div id="tabs-5">
+    	<h3>Here is my Fifth Homework</h3>
+			<h4>Homework 5:</h4>
+			<a href="/homework5.html"> homework5 </a>
+  	</div>
+
+
+  	<div id="tabs-6">
+  		<h3>Here is my Sixth Homework</h3>
+			<h4>Homework 6.0: <br>What are JavaScript browser sniffers?<br>
+Why are they so commonly used in javascripts?</h4>
+			<p>1. JavaScript Browser Sniffer is a set of techniques used in websites and web applications in order to determine the web browser a visitor is using, and to serve browser-appropriate content to the visitor. This practice is sometimes used to circumvent incompatibilities between browsers due to misinterpretation of HTML, Cascading Style Sheets (CSS), or the Document Object Model (DOM). </p>
+			<p>2. browser sniffing was developed to detect the web browser in order to help ensure consistent display of content.
+It is also used to detect mobile browsers and send them mobile-optimized websites. And js needs the browsers to support.</p>
+
+			<h4>Homework 6.1: <br>Write a few lines of well-formatted html using JavaScript - your home town , country , your favourite TV show, and your favourite food!</h4>
+			<a href="html/homework6_1.html"> Source </a> &nbsp;
+			<a href="example/homework6_1.html"> Load </a>
+			<h4>Homework 6.2:<br>1. Output double whatever value is returned from function myAlert2 <br>2.
+Write another function which takes 2 strings and returns them with  != between them (e.g. this != that), then output this new string.</h4>
+			<a href="html/homework6_2.html"> Source </a>&nbsp;
+			<a href="example/homework6_2.html"> Load </a>
+			<h4>Homework 6.3:<br>1. Get a URL from the user using a popup then redirect page using location <br>2.
+Putting the mouse over the the Lime link displays a message in the status bar (bottom of window) - this is broken for the Lemon - how is it broken? Fix it!</h4>
+			<a href="html/homework6_3.html"> Source </a>&nbsp;
+			<a href="example/homework6_3.html"> Load </a>
+			<h4>Homework 6.4:<br>Declare a global variable to hold a list (array)  of holidays.
+<br>Edit makeholiday so that it adds new holidays to the array.
+<br>Make more holidays using makeHoliday
+<br>Write and call a function to loop over and display all the holidays in the array.</h4>
+			<a href="html/homework6_4.html"> Source </a>&nbsp;
+			<a href="example/homework6_4.html"> Load </a>
+			<h4>Homework 6.5:
+				<br>1. Use a regular expression to check age is numbers only (HINT: look for non-numbers) and is sensible value (5 < age < 150 )
+<br>2. Write a CGI/PHP program to process the form  and submit if all is OK .
+<br>You could use dump.pl (as given in the course FAQ) to printout the form values.
+<br>Note that checkSubmit() is blocking the form from submitting - what should you change to allow this?
+
+<br>You would receive a bonus if you realized more functions with javascript. Remember to mention your efforts on your pages.</h4>
+			<a href="html/homework6_5.html"> Source </a>&nbsp;
+			<a href="example/homework6_5.html"> Load </a>
+  	</div>
+
+
+  	<div id="tabs-7">
+    	<h3>Here is my Seventh Homework</h3>
+			<h4>Homework 7.1:</h4>
+			1.Chrome has banned the NPAPI plug-in since version 45, which means that the Java applet is disabled<br>
+			2.Firefox has also banned NPAPI <br><small>Starting with Firefox 52 (issued in March 2017), only supporting Adobe Flash plug-ins will no longer support NPAPI, which will affect plug-ins for Java, plug-ins for Silverlight, and other NPAPI based plug-ins.</small><br>
+			3.<a href="result_files/applet.jpg">IE secceed.<a><br>
+			4.Opera Failed.<small>Maybe because JRE was not configured successfully</small><br>
+			<h4>Homework 7.2-7.3:</h4>
+			<a href="./appletfile/homework7_2.html"> Homework7.2-7.3 </a>
+			<h4>Homework 7.4:</h4>
+			<b>1. AWT:</b><br>
+			AWT stands for Abstract windows toolkit.<br>
+			AWT components are called Heavyweight component.<br>
+			AWT components are platform dependent.<br>
+			AWT is a thin layer of code on top of the OS.<br>
+			Using AWT, you have to implement a lot of things yourself.<br>
+			<b>2. Swing:</b><br>
+			Swing is also called as JFC’s (Java Foundation classes).<br>
+			Swings are called light weight component because swing components sits on the top of AWT components and do the work.<br>
+			Swing components are made in purely java and they are platform independent.<br>
+			With Swing, we can have different look and feel in Swing.<br>
+			Swing has many advanced features like JTabel, Jtabbed pane which is not available in AWT. Also. Swing components are called "lightweight" because they do not require a native OS object to implement their functionality. JDialog and JFrame are heavyweight, because they do have a peer. So components like JButton, JTextArea, etc., are lightweight because they do not have an OS peer.<br>
+			Swing is much larger. Swing also has very much richer functionality.<br>
+
+  	</div>
+
+
+  	<div id="tabs-8">
+    	<h3>Here is my Eighth Homework</h3>
+			<h4>Homework 8.1:<br>
+			Develop an XML file to represent a book of recipes. The data in this example (cook.xml) is very poorly designed but you may wish to use it as starting point.</h4>
+			<a href="./codefile/homework8/recipes.xml">recipes.xml</a><br>
+			<h4>Homework 8.2:<br>
+			Create an XML schema with appropriate data for a recipe book</h4>
+			<a href="./codefile/homework8/recipes.xsd">recipes.xsd</a><br>
+			<h4>Homework 8.3:<br>
+			Format your XML using an XSLT stylesheet (for example cookbook.xsl).</h4>
+			<a href="./codefile/homework8/recipes.xsl">recipes.xsl</a><br>
+			<h4>Homework 8.4:<br>
+			Include links to your .xsl, .xsd and .xml files on your homework page.</h4>
+			<a href="./codefile/homework8/recipes.xml">recipes.xml</a>
+			<a href="./codefile/homework8/recipes.xsd">recipes.xsd</a>
+			<a href="./codefile/homework8/recipes.xsl">recipes.xsl</a><br>
+			<h4>Homework 8.5:<br>
+			Write a short article if you wish to draw the markers attention to something you are pleased with!</h4>
+
+			<h2>Why are people against XML and supporting the use of JSON?</h2><br><br>
+
+			<div style="position:relative; left:280px">
+			<p><b>Reason:</b>I think the reason is that the structure of JSON is easier to map to the data structure of general language.</p>
+			Main components of XML and JSON:
+			<ul>
+  		<li>XML includes element, attribute and element content.</li>
+  		<li>JSON includes object, array, string, number, Boolean (true/false) and null</li>
+			</ul>
+			In addition:
+			<ul>
+				<li>XML needs to choose how to handle the line wrap of element content, and JSON string doesn't have to do that</li>
+				<li>XML has only text, no preset number format, and JSON has a clear number format, so it's also safe on locale
+				</li>
+				<li>There is no big problem with XML mapping array, that is, array element tag is more redundant. JSON is easier to read.</li>
+				<li>The true/false/null of JSON can also be easily unified to the corresponding semantics of general programming languages</li>
+			</ul>
+			</div>
+  	</div>
+
+
+  	<div id="tabs-9">
+    	<h3>Here is my Nineth Homework</h3>
+			<h4>Homework 9.1:</h4>
+			<a href="http://47.100.116.1:8088/">homework9.1</a>
+			<p><b>Above is my homework, I bought a server for my own website in that I don't have any privilege in this website.</b></p>
+
+			My homework is setted up by <b>django</b> (a python web framework),below is a paragraph selected from django's official website
+
+			<p>Django is a high-level Python Web framework that encourages rapid development and clean, pragmatic design. Built by experienced developers, it takes care of much of the hassle of Web development, so you can focus on writing your app without needing to reinvent the wheel. It’s free and open source.</p>
+			Actually, Django is a MTV framework, MTV means model+template+view, and it seemed to be a MVC framework, beacaue in django, the T in MTV is the V in MVC and the V in MTV is the C in MVC, I will take my web-app as example below.<br>
+			At first, we take a look at model
+
+			<xmp style="text-align:left">
+class Person(models.Model):
+	name =models.CharField(max_length=200)
+	age = models.IntegerField()
+	gender = models.CharField(max_length=50)
+	e_mail = models.CharField(max_length=200)
+	def __str__(self):
+		return self.name
+			</xmp><br>
+
+			I define a Person model, then django will create a table named Questionare_person (Questionare is my app-name), and the table has five column id,name,age,e_mail,gender.<br>
+			Second, we take a look at template
+
+			<xmp style="text-align:left">
+<h1>Questionare</h1>
+
+{% if error_message %}<p><strong>{{ error_message }}</strong></p>{% endif %}
+
+<form action="{% url 'Questionare:submit'%}" method="post">
+{% csrf_token %}
+Name: <input name="name"/><br>
+Age: <input name="age"><br>
+Gender:
+<input type="radio" name="gender" value="male"  checked="checked">male
+<input type="radio" name="gender" value="female">female<br>
+E_mail: <input name="e_mail"><br>
+
+<input type="submit" value="Submit" />
+</form>
+			</xmp><br>
+			What you see is a html file and is also a template, it show us final view by getting data passed by view function in views.py.<br>
+
+			So finally, We SEE views.py
+			<xmp style="text-align:left">
+
+def submit(request):
+	person = Person()
+	person.name = request.POST['name']
+	person.age = request.POST['age']
+	person.gender = request.POST['gender']
+	person.e_mail = request.POST['e_mail']
+	person.save()
+	return render(request,'Questionare/results.html')
+</xmp><br>
+
+Here you can see that submit function connect database(Model) and our template(Questionare/results.html),sO it works just like Controllor
+
+<h4>Homework 9.2:</h4>
+Django is a framework that works by a module (named wgsi module), the module is aimed to deal with python in apache server. this is the first point. So I used a virtual host to run my django framework and my application. the configure file is like below
+<xmp style="text-align:left">
+	<VirtualHost *:8088>
+		# The ServerName directive sets the request scheme, hostname and port that
+		# the server uses to identify itself. This is used when creating
+		# redirection URLs. In the context of virtual hosts, the ServerName
+		# specifies what hostname must appear in the request's Host: header to
+		# match this virtual host. For the default virtual host (this file) this
+		# value is not decisive as it is used as a last resort host regardless.
+		# However, you must set it for any further virtual host explicitly.
+		#ServerName www.example.com
+		ServerName 47.100.116.1:8088
+		ServerAlias django.com
+	  DocumentRoot /home/Qingchuan-Ma/mysite
+		ServerAdmin webmaster@localhost
+
+		# Available loglevels: trace8, ..., trace1, debug, info, notice, warn,
+		# error, crit, alert, emerg.
+		# It is also possible to configure the loglevel for particular
+		# modules, e.g.
+		#LogLevel info ssl:warn
+
+		ErrorLog ${APACHE_LOG_DIR}/error.log
+		CustomLog ${APACHE_LOG_DIR}/access.log combined
+
+	  Alias /media/ /home/Qingchuan-Ma/mysite/media/
+	  Alias /static/ /home/Qingchuan-Ma/mysite/static/
+
+	  <Directory /home/Qingchuan-Ma/mysite/media>
+	          Require all granted
+	  </Directory>
+
+	  <Directory /home/Qingchuan-Ma/mysite/static>
+	      Require all granted
+	  </Directory>
+
+	  WSGIScriptAlias / /home/Qingchuan-Ma/mysite/mysite/wsgi.py
+
+	  <Directory /home/Qingchuan-Ma/mysite/mysite>
+	    <Files wsgi.py>
+	      Require all granted
+	    </Files>
+	  </Directory>
+
+		# For most configuration files from conf-available/, which are
+		# enabled or disabled at a global level, it is possible to
+		# include a line for only one particular virtual host. For example the
+		# following line enables the CGI configuration for this host only
+		# after it has been globally disabled with "a2disconf".
+		#Include conf-available/serve-cgi-bin.conf
+	</VirtualHost>
+
+	# vim: syntax=apache ts=4 sw=4 sts=4 sr noet
+
+</xmp><br>
+My VirtualHost use my 8088 port to Mount my django project.
+
+What's more, Django also provide localhost server. So I also tried <b>Reverse Proxy</b> in 8089 port, and the web side is presented below.(I use adding-module way to make my server support reverse proxy)<br><br>
+<b><a href="http://47.100.116.1:8089/">Reverse Proxy</a></b>
+<xmp style="text-align:left">
+	<VirtualHost *:8089>
+		# The ServerName directive sets the request scheme, hostname and port that
+		# the server uses to identify itself. This is used when creating
+		# redirection URLs. In the context of virtual hosts, the ServerName
+		# specifies what hostname must appear in the request's Host: header to
+		# match this virtual host. For the default virtual host (this file) this
+		# value is not decisive as it is used as a last resort host regardless.
+		# However, you must set it for any further virtual host explicitly.
+		#ServerName www.example.com
+
+	  ProxyRequests Off
+	  ProxyPreserveHost On
+	  ProxyPass '/' 'http://127.0.0.1:8080/'
+	  ProxyPassReverse '/' 'http://127.0.0.1:8080/'
+
+	</VirtualHost>
+
+	# vim: syntax=apache ts=4 sw=4 sts=4 sr noet
+</xmp>
+	I use my 8089 ports to proxy my django application. I used
+	<pre>
+		python manage.py runserver 8080
+	</pre>
+	to run my django in localhost.
+
+</div>
+
+  	<div id="tabs-10">
+    	<h3>Here is my Tenth Homework</h3>
+  	</div>
+
+		<h4>Homework 10:</h4>
+		<b><a href="http://47.100.116.1:8088/">Homework 10</a></b>
+	</div>
+
+</div>
+
+
+<!-- my contact -->
+<hr />
+<div>
+		<a ID="Contact"  ><h2>Contact</h2></a>
+		<address style="text-align:center">Name:马清川<br /><br />
+			Student Number:1600011621<br /><br />
+			E-mail:1600011621@pku.edu.cn<br />
+		</address>
+</div>
+
+
+<!--script-->
+<div>
+	<script src="external/jquery/jquery.js"></script>
+	<script src="./script/jquery-ui.js"></script>
+	<script>$( "#tabs" ).tabs();</script>
+</div>
+
+
+</body>
+</html>

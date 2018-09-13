@@ -1,0 +1,175 @@
+
+<HTML>
+<HEAD>
+<meta HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=windows-1252">
+<meta http-equiv="Content-Language" content="en-us">
+
+  <link href="../css/jquery-ui.css" rel="stylesheet">
+  <link href="../css/jquery-ui.theme.css" rel="stylesheet">
+  <link href="../css/jquery-ui.structure.css" rel="stylesheet">
+  <style media="screen">
+
+  input
+  {
+    border: 1px solid #ccc;
+    padding: 7px 0px;
+    border-radius: 3px; /*css3属性IE不支持*/
+    padding-left:5px;
+  }
+  input:focus
+  {
+      outline: none;
+      border-color: #9ecaed;
+      box-shadow: 0 0 10px #9ecaed;
+  }
+  h1
+  {
+  	font-size:40px;
+  	color: transparent;
+  	-webkit-text-stroke: 1px black;
+  	letter-spacing: 0.04em;
+  	background-color:
+  	}
+  </style>
+   <script language="javascript">
+   <!--
+
+
+   function checkSubmit() {
+
+     var q = document.quiz;
+     var qc = q.chat;
+     qc.value = "";
+     window.alert("Checking submit ..." + document.quiz.watch[0].checked);
+
+
+     for ( var i=0; i<q.holiday.options.length; i++)
+     {
+       if (q.holiday.options[i].selected)
+       {
+         qc.value += "Selected: " + q.holiday.options[i].value + "\n";
+       }
+     }
+
+     if ( noValue(q.Personal_FirstName.value) )
+     {
+       qc.value += "What no name? - I shall call you Belinda\n";
+       q.Personal_FirstName.value = "Belinda";
+     }
+
+     if ( CheckNumber(q.Personal_Age.value))
+     {
+       window.alert("Warning: Please input correct number!");
+       qc.value += "Age:" + q.Personal_Age.value;
+       return false;
+     }
+     else {
+       window.alert("Gotten correct number!");
+     }
+
+     checkText(q, qc);
+     return true;
+   }
+
+   function noValue(val)  {
+     if (val.search(/\w/) == -1) {
+       return true;
+     }
+     return false;
+   }
+
+  function CheckNumber(val)  {
+     if (val.search(/^[5-9]$|^[1-9]\d$|^1[0-5]\d$/) == -1) {
+       return true;
+     }
+     return false;
+   }
+
+   function checkText(q, qc) {
+     for ( var i =0 ; i < q.length; i++) {
+       if (noValue(q.elements[i].value)) {
+        qc.value += "No value: "+ q.elements[i].name + "\n";
+       }
+     }
+
+   }
+
+   //-->
+   </script>
+<TITLE>Form 2 Wizard</TITLE>
+</HEAD>
+<BODY>
+<h1 style="text-align:center">Welcome to My HomeWork_6.5</h1>
+
+
+  <div style="width:400px;loat:left;padding-left:39%">
+    <HR>
+<p style="text-align:center"><b>Form Action and checkSubmit</b></p>
+<form action="../../cgi-bin/dump.pl" onSubmit="return checkSubmit();"  method="GET" name="quiz" style="width:100%">
+<ul>
+<LI><P>Please identify and describe yourself:</P>
+<TABLE>
+<TR>
+<TD ALIGN="right"><EM>First Name</EM></TD>
+<TD><INPUT TYPE=TEXT NAME="Personal_FirstName" SIZE=25></TD>
+</TR><TR>
+<TD ALIGN="right"><EM>Last Name</EM></TD>
+<TD><INPUT TYPE=TEXT NAME="Personal_LastName" SIZE=25></TD>
+</TR><TR>
+<TD ALIGN="right"><EM>Age</EM></TD>
+<TD><INPUT TYPE=TEXT NAME="Personal_Age" SIZE=3 MAXLENGTH=3></TD>
+</TR><TR>
+<TD ALIGN="right"><EM>Sex</EM></TD>
+<TD><INPUT TYPE=RADIO NAME="Personal_Sex" VALUE="Male" CHECKED>Male
+<INPUT TYPE=RADIO NAME="Personal_Sex" VALUE="Female">Female</TD>
+</TR><TR>
+<TD ALIGN="right"><EM>ID Number</EM></TD>
+<TD><INPUT TYPE=TEXT NAME="Personal_IDNumber" SIZE=16 MAXLENGTH=16></TD>
+</TR>
+</TABLE>
+
+<LI><P>Choose one of the following options:</P>
+<P><INPUT TYPE=RADIO NAME="watch" VALUE="Dunno" CHECKED> I don't know?!
+<BR><INPUT TYPE=RADIO NAME="watch" VALUE="Radio"> Radio
+<BR><INPUT TYPE=RADIO NAME="watch" VALUE="TV"> TV
+<BR><INPUT TYPE=RADIO NAME="watch" VALUE="Film"> Film
+<BR><BR>
+</P>
+
+<LI><P>Choose one of the following options:</P>
+<P><SELECT NAME="holiday">
+  <OPTION value="Greece" SELECTED>Greece <OPTION value="Italy">Italy
+  <OPTION value="France">France <OPTION value="Spain">Spain
+</SELECT>
+<BR>
+</P>
+<LI><P>How would you rate your knowledge of JavaScript?</P>
+<P>
+  <INPUT TYPE=RADIO NAME="knowledge" VALUE="1" onClick="alert('Time for some SERIOUS learning');">1
+  <INPUT TYPE=RADIO NAME="knowledge" VALUE="2" onClick="alert('I hope you\'re yearning for some learning');">2
+  <INPUT TYPE=RADIO NAME="knowledge" VALUE="3" CHECKED>3
+  <INPUT TYPE=RADIO NAME="knowledge" VALUE="4">4
+  <INPUT TYPE=RADIO NAME="knowledge" VALUE="5">5
+  <BR></P>
+</OL>
+<p />
+<textarea name="chat" rows=5 cols=40></textarea><p />
+<INPUT TYPE=button VALUE="Don't Push Me" name="push" onClick="alert('HOW RUDE!!!!\nI asked you NOT to push me');" class="ui-button">
+<INPUT TYPE=SUBMIT VALUE="Submit Form" class="ui-button">
+<INPUT TYPE=RESET VALUE="Reset Form" onClick="return confirm('Are you sure?');" class="ui-button" onloadedmetadata="">
+
+</FORM>
+
+<HR>
+</div>
+
+
+<div style="text-align:center">
+  <button type="button" class="ui-button" onclick="window.location.href='../index.html'">Return to Homepage</button><br>
+</div>
+
+
+
+
+</BODY>
+</HTML>

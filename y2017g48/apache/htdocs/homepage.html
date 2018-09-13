@@ -1,0 +1,233 @@
+<!DOCTYPE html>
+<html lang="en">
+	<meta charset="utf-8">
+	<title>Ma-Qingchuan's HomePage</title>
+	<style>
+	body{
+			font-family: "Trebuchet MS", sans-serif;
+			margin: 50px;
+			background-image:url('/images/background.jpg');
+	  	background-color:#cccccc ;
+			background-size:cover;
+			background-position: center;
+			background-attachment:fixed;
+	}
+
+	#tabs {
+		opacity: 0.8;
+	}
+
+	hr {
+		height:3px;
+		border:3px;
+		border-top:3px
+		double
+		blue;
+		width:100%;
+	}
+
+	a.tag:link {
+    font-size: 16pt;
+    color: #0000cc;
+    font-family: 宋体;
+    text-align: left;
+    text-decoration: underline;
+    TEXT-DECORATION:none;
+	}
+	a.tag:visited {
+    font-size: 18pt;
+    color: #0000cc;
+    font-family: 宋体;
+    text-align: left;
+    text-decoration: underline;
+    TEXT-DECORATION:none;
+	}
+	a.tag:hover {
+    color: #993300;
+    text-decoration: underline;
+    TEXT-DECORATION:none;
+	}
+	a.tag:active {
+    color: #ff0033;
+    text-decoration: none;
+	}
+	p.out {
+		text-align: center;
+	}
+	h2 {
+		text-align: center;
+	}
+	h1{
+		text-align: center;
+	}
+	h3.out{
+		text-align: center;
+	}
+	</style>
+</head>
+
+
+<body>
+
+
+<!--title-->
+<div>
+	<h1 >Welcome to Ma-Qingchuan's HomePage!</h1>
+	<div class="ui-widget" style="text-align:center">
+		<p class="out">This page is set up by jQuery UI.</p>
+	</div>
+	<div style="text-align:center">
+    <a href="/index.html" class="tag">RETURN</a>&emsp;
+		<a href=#Intro class="tag">Introduction</a>&emsp;
+		<a href=#Homework class="tag">Homework</a>&emsp;
+		<a href=#Contact class="tag">Contact</a>
+	</div>
+</div>
+
+
+<!--introduction-->
+<hr />
+<div>
+	<a ID="Intro" ><h2 style="color:#ffffff">Introduction</h2></a>
+	<p class="out">
+		This page is used for course --- Web Software Technology, and the homework that I did would be uploaded to this page.
+	</p>
+
+	<p class="out">
+		The picture below links to my personal webside (blog).<br />
+		<a href="https://qingchuan-ma.github.io/blog/">
+			<img src="/images/blog.png" alt="linking to my blog"/>
+		</a>
+	</p>
+
+	<h3 class="out">Thanks For Your Visiting!</h3>
+	</div>
+
+
+<!--my homework-->
+<hr />
+<div>
+	<a ID="Homework"  ><h2>Homework</h2></a>
+	<p class="out"> Listed below is my all homework. </p>
+
+	<div id="tabs">
+  	<ul>
+    	<li><a href="#tabs-1">1</a></li>
+    	<li><a href="#tabs-2">2</a></li>
+    	<li><a href="#tabs-3">3</a></li>
+			<li><a href="#tabs-4">4</a></li>
+			<li><a href="#tabs-5">5</a></li>
+			<li><a href="#tabs-6">6</a></li>
+			<li><a href="#tabs-7">7</a></li>
+			<li><a href="#tabs-8">8</a></li>
+			<li><a href="#tabs-9">9</a></li>
+			<li><a href="#tabs-10">10</a></li>
+
+  	</ul>
+  	<div id="tabs-1">
+    	<h3>Here is my First Homework</h3>
+			<h4>Homework1.1: For the three categories of web software technology we've just defined, you are asked to find out which category so-called "Chrome plug-in" technology belongs to. Please describe the basic idea of the technology, and give your reasoning on its position in the technology categories.</h4>
+			<p class="in">
+				I think "Chrome plug-in" belongs to "productivity and quality-oriented technologies".because they are designed to help us to surf the internet more smoothly so that creating quality web services. For example, preview-pdf-file plug-in makes it more convenient to quickily to get the information about the pdf online instead of waiting the downloading process over. So this is belongs to "productivivty and quality-oriented technologies".
+			</p>
+			<h4>Homework 1.2:In a normal intercommunication between Web browser and Web Server, Web Server closes the network communication right after it sends back the document requested by the browser. Think about this statusless character of World Wide Web. Give some good points and bad points of it. Can a web server know exactly how many browsers are reading its document?</h4>
+			<p class="in">
+				Good Point:<br />
+				After transmitting the document, the web server immediately closes the TCP, which can make server have more time to deal with other browsers' request, Moreover, Server TCP has the maximum number of connections, if not closed, too much visitor will lead to the server tcp port blocked.<br />
+				Bad Point:<br />
+				If we are browsering many websides which are very similiar with each other at the same time, the connecting repeatedly will also waste much time and transmite a lot of the same data, it's the bad point I can considered.<br />
+				I think the server unable to know how many browsers are reading its document, because the server closes the TCP after transmitting the document data, which means that serve will not know when the browser closes the document. So I think the server unable to know how many browsers are reading the document.
+			</p>
+
+  	</div>
+
+
+  	<div id="tabs-2">
+    	<h3>Here is my Second Homework</h3>
+
+			The wesite that I estabished is
+			<a href="http://162.105.146.180:8048/"> Homepage </a>
+			<h4>The Table:</h4>
+
+			The website that dosen't use third-part library is <a href="/homepage.html"> homepage </a>
+
+			<table> <!--A table of all homework-->
+				<tr>
+					<th colspan="3">Homework about table</th>
+				</tr>
+				<tr>
+					<td rowspan="2">two blocks</td>
+					<td>&emsp;test_one&emsp;</td>
+					<td>&emsp;test_two&emsp;</td>
+				</tr>
+				<tr>
+					<td>&emsp;result_one&emsp;</td>
+					<td>&emsp;result_two&emsp;</td>
+				</tr>
+			</table>
+
+			<h4>Also my page has passed HTML5 validation through the use of the
+				<a href="/result.html"> W3C Markup 	Validator (Result)</a> </h4>
+		</div>
+
+
+  	<div id="tabs-3">
+    	<p>Here is my Third Homework</p>
+  	</div>
+
+
+  	<div id="tabs-4">
+    	<p>Here is my Fourth Homework</p>
+  	</div>
+
+
+  	<div id="tabs-5">
+    	<p>Here is my Fifth Homework</p>
+  	</div>
+
+
+  	<div id="tabs-6">
+  		<p>Here is my Sixth Homework</p>
+  	</div>
+
+
+  	<div id="tabs-7">
+    	<p>Here is my Seventh Homework</p>
+  	</div>
+
+
+  	<div id="tabs-8">
+    	<p>Here is my Eighth Homework</p>
+  	</div>
+
+
+  	<div id="tabs-9">
+    	<p>Here is my Nineth Homework</p>
+  	</div>
+
+
+  	<div id="tabs-10">
+    	<p>Here is my Tenth Homework</p>
+  	</div>
+
+	</div>
+
+</div>
+
+
+<!-- my contact -->
+<hr />
+<div>
+		<a ID="Contact"  ><h2>Contact</h2></a>
+		<address style="text-align:center">Name:马清川<br /><br />
+			Student Number:1600011621<br /><br />
+			E-mail:1600011621@pku.edu.cn<br />
+		</address>
+</div>
+
+
+<!--script-->
+
+
+</body>
+</html>

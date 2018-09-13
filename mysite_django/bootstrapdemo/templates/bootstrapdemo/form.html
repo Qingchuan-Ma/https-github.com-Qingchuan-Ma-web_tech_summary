@@ -1,0 +1,23 @@
+<head>
+{% load bootstrap3 %}
+{% bootstrap_css %}
+{% bootstrap_javascript %}
+{% bootstrap_messages %}
+<title>bootstrapdemo</title>
+</head>
+<body>
+  <h1>This is a bootstrapdemo using django-bootstrap3 module</h1>
+  <p>这种方法极其不可取，不如直接加载网站内的bootstrap静态文件。很多应有的样式支持甚至在documents中不存在</p>
+<div style="width:300px" align=center>
+<form action="/url/to/submit/" method="post" class="form">
+  {% csrf_token %}
+  {% bootstrap_form form %}
+  {% buttons %}
+    <button type="submit" class="btn btn-primary">
+      {% bootstrap_icon "star" %} Submit
+    </button>
+  {% endbuttons %}
+</form>
+
+</div>
+</body>

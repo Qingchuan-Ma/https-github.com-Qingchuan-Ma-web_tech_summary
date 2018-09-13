@@ -1,0 +1,50 @@
+<html>
+<head>
+<title>
+  Questionare
+</title>
+
+
+{% load bootstrap3 %}
+
+{# Load CSS and JavaScript #}
+{% bootstrap_css %}
+{% bootstrap_javascript %}
+
+{# Display django.contrib.messages as Bootstrap alerts #}
+{% bootstrap_messages %}
+
+
+<!--
+{% load static %}
+<link rel="stylesheet" type="text/css" href="{% static 'polls/style.css' %}"/>
+-->
+</head>
+<body style="text-align:center">
+
+  <h1>Questionare</h1>
+
+  {% if error_message %}<p><strong>{{ error_message }}</strong></p>{% endif %}
+  
+  <form action="{% url 'Questionare:submit'%}" method="post" class="form">
+
+  {% csrf_token %}
+      Name: <input name="name" placeholder="John Jack"/><br>
+      Age: <input name="age" value="19"><br>
+      Gender: <input type="radio" name="gender" value="male"  checked="checked">male
+      <input type="radio" name="gender" value="female">female<br>
+      E_mail: <input name="e_mail" placeholder="xxxxxxx@pku.edu.cn"><br>
+
+
+        {% buttons %}
+  <input type="submit" value="Submit" />
+  </form>
+
+
+  <button onclick="window.location.href='{% url 'homepage' %}'">Return
+  </button>
+  {% endbuttons %}
+
+
+</body>
+</html>

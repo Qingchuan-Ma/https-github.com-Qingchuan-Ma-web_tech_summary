@@ -1,0 +1,66 @@
+<?xml version="1.0"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns="https://qingchuan-ma.github.io/blog" targetNamespace="https://qingchuan-ma.github.io/blog" elementFormDefault="qualified">
+
+<xs:element name="Cookbook">
+  <xs:complexType>
+    <xs:element name="Recipe" maxOccurs="unbounded">
+      <xs:complexType>
+
+        <xs:element name="Index">
+          <xs:simpleType>
+            <xs:restriction base = "xs:decimal">
+              <xs:minInclusive value = "1" />
+            </xs:restriction>
+          </xs:simpleType>
+        </xs:element>
+
+        <xs:element name="Ingredientlist">
+          <xs:complexType>
+            <xs:element name="ingredient" maxOccurs="unbounded">
+              <xs:complexType>
+                <xs:sequence>
+                  <xs:element name="name"
+                              type="xs:string"
+                              minOccurs = "1"
+                              maxOccurs = "1"/>
+                  <xs:element name="amount"
+                              type="xs:integer"
+                              minOccurs = "1"
+                              maxOccurs = "1"/>
+                  <xs:element name="unit"
+                              type="xs:string"
+                              minOccurs = "1"
+                              maxOccurs = "1"/>
+                </xs:sequence>
+              </xs:complexType>
+            </xs:element>
+          </xs:complexType>
+        </xs:element>
+
+
+        <xs:element name="Procedure">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="first"
+                          type="xs:string"
+                          minOccurs = "1"
+                          maxOccurs = "1"/>
+              <xs:element name="second"
+                          type="xs:string"
+                          minOccurs = "1"
+                          maxOccurs = "1"/>
+              <xs:element name="third"
+                          type="xs:string"
+                          minOccurs = "1"
+                          maxOccurs = "1"/>
+              </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+
+      </xs:complexType>
+    </xs:element>
+
+  </xs:complexType>
+</xs:element>
+
+</xs:schema>

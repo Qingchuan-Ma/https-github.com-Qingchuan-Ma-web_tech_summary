@@ -1,0 +1,16 @@
+body
+{
+  font: normal 16px/1.5em helvetica, aria, sans-serif;  text-align: center;
+  background-color: #FFFFDD;
+}
+
+#header
+{
+  height:110px;
+}
+
+#footer
+{
+  height:110px;
+  clear:both;
+}

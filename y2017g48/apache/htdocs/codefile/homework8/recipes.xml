@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="recipes.xsl"?>
+
+<Cookbook xmlns:xsi =  "http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation = "https://qingchuan-ma.github.io/blog recipes.xsd" >
+<Recipe>
+  <Index>1</Index>
+  <Name>Rhubarb and Custard</Name>
+  <Ingredientlist>
+    <ingredient>
+      <name>Milk</name>
+      <amount>15</amount>
+      <unit>ml</unit>
+    </ingredient>
+    <ingredient>
+      <name>Rhubarb</name>
+      <amount>700</amount>
+      <unit>g</unit>
+    </ingredient>
+    <ingredient>
+      <name>Custard Powder</name>
+      <amount>8</amount>
+      <unit>tbs</unit>
+    </ingredient>
+  </Ingredientlist>
+  <Procedure>
+    <first>Prepare ingredient</first>
+    <second>Mix together and put in oven proof dish</second>
+    <third>Heat in a moderate oven for 40 mins</third>
+  </Procedure>
+</Recipe>
+
+
+<Recipe>
+  <Index>2</Index>
+  <Name>Ice Cream Sundae</Name>
+  <Ingredients>
+    <ingredient>
+      <name>chocolate syrup</name>
+      <amount>3</amount>
+      <unit></unit>
+    </ingredient>
+    <ingredient>
+      <name>cherry</name>
+      <amount>1</amount>
+      <unit></unit>
+    </ingredient>
+    <ingredient>
+      <name>nuts</name>
+      <amount>1</amount>
+      <unit></unit>
+    </ingredient>
+  </Ingredients>
+  <Procedure>
+    <first>Using ice cream scoop, place vanilla ice cream into bowl.</first>
+    <second>Drizzle chocolate syrup or chocolate fudge over the ice cream.</second>
+    <third>Sprinkle nuts over the mound of chocolate and ice cream,and put cherry on top of mound</third>
+  </Procedure>
+</Recipe>
+
+
+</Cookbook>

@@ -1,0 +1,1558 @@
+[03/Dec/2017 15:22:32] "GET / HTTP/1.0" 200 422
+[03/Dec/2017 15:22:38] "GET / HTTP/1.0" 200 422
+[03/Dec/2017 15:23:02] "GET / HTTP/1.0" 200 422
+[03/Dec/2017 15:23:03] "GET / HTTP/1.0" 200 422
+[03/Dec/2017 15:23:03] "GET / HTTP/1.0" 200 422
+[03/Dec/2017 15:23:17] "GET / HTTP/1.0" 200 422
+[03/Dec/2017 15:23:17] "GET / HTTP/1.0" 200 422
+[03/Dec/2017 15:23:17] "GET / HTTP/1.0" 200 422
+[03/Dec/2017 15:23:17] "GET / HTTP/1.0" 200 422
+[03/Dec/2017 15:23:18] "GET / HTTP/1.0" 200 422
+[03/Dec/2017 15:23:18] "GET / HTTP/1.0" 200 422
+[03/Dec/2017 15:23:18] "GET / HTTP/1.0" 200 422
+[03/Dec/2017 15:23:18] "GET / HTTP/1.0" 200 422
+[03/Dec/2017 15:23:18] "GET / HTTP/1.0" 200 422
+[03/Dec/2017 15:23:28] "GET / HTTP/1.0" 200 422
+[03/Dec/2017 15:23:28] "GET / HTTP/1.0" 200 422
+[03/Dec/2017 15:23:28] "GET / HTTP/1.0" 200 422
+[03/Dec/2017 15:23:28] "GET / HTTP/1.0" 200 422
+[03/Dec/2017 15:31:16] "GET / HTTP/1.0" 200 422
+[03/Dec/2017 15:31:17] "GET / HTTP/1.0" 200 422
+[03/Dec/2017 15:31:17] "GET / HTTP/1.0" 200 422
+Performing system checks...
+
+System check identified no issues (0 silenced).
+December 03, 2017 - 15:22:27
+Django version 1.11.7, using settings 'mysite.settings'
+Starting development server at http://127.0.0.1:8080/
+Quit the server with CONTROL-C.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+December 03, 2017 - 15:32:07
+Django version 1.11.7, using settings 'mysite.settings'
+Starting development server at http://127.0.0.1:8080/
+Quit the server with CONTROL-C.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+December 03, 2017 - 15:32:22
+Django version 1.11.7, using settings 'mysite.settings'
+Starting development server at http://127.0.0.1:8080/
+Quit the server with CONTROL-C.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+December 03, 2017 - 15:33:43
+Django version 1.11.7, using settings 'mysite.settings'
+Starting development server at http://127.0.0.1:8080/
+Quit the server with CONTROL-C.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+December 03, 2017 - 15:37:02
+Django version 1.11.7, using settings 'mysite.settings'
+Starting development server at http://127.0.0.1:8080/
+Quit the server with CONTROL-C.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+December 03, 2017 - 15:37:04
+Django version 1.11.7, using settings 'mysite.settings'
+Starting development server at http://127.0.0.1:8080/
+Quit the server with CONTROL-C.
+[03/Dec/2017 15:40:40] "GET / HTTP/1.0" 200 435
+[03/Dec/2017 15:40:41] "GET / HTTP/1.0" 200 435
+[03/Dec/2017 15:47:44] "GET / HTTP/1.0" 200 435
+Performing system checks...
+
+System check identified no issues (0 silenced).
+December 03, 2017 - 15:37:07
+Django version 1.11.7, using settings 'mysite.settings'
+Starting development server at http://127.0.0.1:8080/
+Quit the server with CONTROL-C.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+December 04, 2017 - 06:35:12
+Django version 1.11.7, using settings 'mysite.settings'
+Starting development server at http://127.0.0.1:8080/
+Quit the server with CONTROL-C.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+December 04, 2017 - 06:35:25
+Django version 1.11.7, using settings 'mysite.settings'
+Starting development server at http://127.0.0.1:8080/
+Quit the server with CONTROL-C.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+December 04, 2017 - 06:35:29
+Django version 1.11.7, using settings 'mysite.settings'
+Starting development server at http://127.0.0.1:8080/
+Quit the server with CONTROL-C.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+December 04, 2017 - 06:36:20
+Django version 1.11.7, using settings 'mysite.settings'
+Starting development server at http://127.0.0.1:8080/
+Quit the server with CONTROL-C.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+December 04, 2017 - 06:36:26
+Django version 1.11.7, using settings 'mysite.settings'
+Starting development server at http://127.0.0.1:8080/
+Quit the server with CONTROL-C.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+December 04, 2017 - 06:37:08
+Django version 1.11.7, using settings 'mysite.settings'
+Starting development server at http://127.0.0.1:8080/
+Quit the server with CONTROL-C.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+December 04, 2017 - 06:37:16
+Django version 1.11.7, using settings 'mysite.settings'
+Starting development server at http://127.0.0.1:8080/
+Quit the server with CONTROL-C.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+December 04, 2017 - 06:37:40
+Django version 1.11.7, using settings 'mysite.settings'
+Starting development server at http://127.0.0.1:8080/
+Quit the server with CONTROL-C.
+Unhandled exception in thread started by <function wrapper at 0x7fce98cf8cf8>
+Performing system checks...
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/django/utils/autoreload.py", line 228, in wrapper
+    fn(*args, **kwargs)
+  File "/usr/local/lib/python2.7/dist-packages/django/core/management/commands/runserver.py", line 125, in inner_run
+    self.check(display_num_errors=True)
+  File "/usr/local/lib/python2.7/dist-packages/django/core/management/base.py", line 359, in check
+    include_deployment_checks=include_deployment_checks,
+  File "/usr/local/lib/python2.7/dist-packages/django/core/management/base.py", line 346, in _run_checks
+    return checks.run_checks(**kwargs)
+  File "/usr/local/lib/python2.7/dist-packages/django/core/checks/registry.py", line 81, in run_checks
+    new_errors = check(app_configs=app_configs)
+  File "/usr/local/lib/python2.7/dist-packages/django/core/checks/urls.py", line 16, in check_url_config
+    return check_resolver(resolver)
+  File "/usr/local/lib/python2.7/dist-packages/django/core/checks/urls.py", line 26, in check_resolver
+    return check_method()
+  File "/usr/local/lib/python2.7/dist-packages/django/urls/resolvers.py", line 254, in check
+    for pattern in self.url_patterns:
+  File "/usr/local/lib/python2.7/dist-packages/django/utils/functional.py", line 35, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/usr/local/lib/python2.7/dist-packages/django/urls/resolvers.py", line 405, in url_patterns
+    patterns = getattr(self.urlconf_module, "urlpatterns", self.urlconf_module)
+  File "/usr/local/lib/python2.7/dist-packages/django/utils/functional.py", line 35, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/usr/local/lib/python2.7/dist-packages/django/urls/resolvers.py", line 398, in urlconf_module
+    return import_module(self.urlconf_name)
+  File "/usr/lib/python2.7/importlib/__init__.py", line 37, in import_module
+    __import__(name)
+  File "/home/Qingchuan-Ma/mysite/mysite/urls.py", line 24, in <module>
+    url(r'^questionare/', include('Questionare.urls'),name='questionare'),
+  File "/usr/local/lib/python2.7/dist-packages/django/conf/urls/__init__.py", line 50, in include
+    urlconf_module = import_module(urlconf_module)
+  File "/usr/lib/python2.7/importlib/__init__.py", line 37, in import_module
+    __import__(name)
+  File "/home/Qingchuan-Ma/mysite/Questionare/urls.py", line 8, in <module>
+    url(r'^results/',views.ok,name='submit')
+AttributeError: 'module' object has no attribute 'ok'
+Performing system checks...
+
+System check identified no issues (0 silenced).
+December 04, 2017 - 06:38:41
+Django version 1.11.7, using settings 'mysite.settings'
+Starting development server at http://127.0.0.1:8080/
+Quit the server with CONTROL-C.
+Unhandled exception in thread started by <function wrapper at 0x7fe96b62ccf8>
+Performing system checks...
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/django/utils/autoreload.py", line 228, in wrapper
+    fn(*args, **kwargs)
+  File "/usr/local/lib/python2.7/dist-packages/django/core/management/commands/runserver.py", line 125, in inner_run
+    self.check(display_num_errors=True)
+  File "/usr/local/lib/python2.7/dist-packages/django/core/management/base.py", line 359, in check
+    include_deployment_checks=include_deployment_checks,
+  File "/usr/local/lib/python2.7/dist-packages/django/core/management/base.py", line 346, in _run_checks
+    return checks.run_checks(**kwargs)
+  File "/usr/local/lib/python2.7/dist-packages/django/core/checks/registry.py", line 81, in run_checks
+    new_errors = check(app_configs=app_configs)
+  File "/usr/local/lib/python2.7/dist-packages/django/core/checks/urls.py", line 16, in check_url_config
+    return check_resolver(resolver)
+  File "/usr/local/lib/python2.7/dist-packages/django/core/checks/urls.py", line 26, in check_resolver
+    return check_method()
+  File "/usr/local/lib/python2.7/dist-packages/django/urls/resolvers.py", line 254, in check
+    for pattern in self.url_patterns:
+  File "/usr/local/lib/python2.7/dist-packages/django/utils/functional.py", line 35, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/usr/local/lib/python2.7/dist-packages/django/urls/resolvers.py", line 405, in url_patterns
+    patterns = getattr(self.urlconf_module, "urlpatterns", self.urlconf_module)
+  File "/usr/local/lib/python2.7/dist-packages/django/utils/functional.py", line 35, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/usr/local/lib/python2.7/dist-packages/django/urls/resolvers.py", line 398, in urlconf_module
+    return import_module(self.urlconf_name)
+  File "/usr/lib/python2.7/importlib/__init__.py", line 37, in import_module
+    __import__(name)
+  File "/home/Qingchuan-Ma/mysite/mysite/urls.py", line 24, in <module>
+    url(r'^questionare/', include('Questionare.urls'),name='questionare'),
+  File "/usr/local/lib/python2.7/dist-packages/django/conf/urls/__init__.py", line 50, in include
+    urlconf_module = import_module(urlconf_module)
+  File "/usr/lib/python2.7/importlib/__init__.py", line 37, in import_module
+    __import__(name)
+  File "/home/Qingchuan-Ma/mysite/Questionare/urls.py", line 8, in <module>
+    url(r'^results/',views.submit,name='submit')
+AttributeError: 'module' object has no attribute 'submit'
+Performing system checks...
+
+System check identified no issues (0 silenced).
+December 04, 2017 - 06:40:35
+Django version 1.11.7, using settings 'mysite.settings'
+Starting development server at http://127.0.0.1:8080/
+Quit the server with CONTROL-C.
+[04/Dec/2017 06:43:59] "GET / HTTP/1.0" 200 612
+Not Found: /favicon.ico
+[04/Dec/2017 06:43:59] "GET /favicon.ico HTTP/1.0" 404 2287
+[04/Dec/2017 06:44:01] "GET / HTTP/1.0" 200 612
+[04/Dec/2017 06:44:01] "GET / HTTP/1.0" 200 612
+[04/Dec/2017 06:44:01] "GET / HTTP/1.0" 200 612
+[04/Dec/2017 06:44:02] "GET /polls/ HTTP/1.0" 200 297
+[04/Dec/2017 06:44:02] "GET /static/polls/style.css HTTP/1.0" 200 112
+[04/Dec/2017 06:44:02] "GET /static/polls/images/background.gif HTTP/1.0" 404 1697
+[04/Dec/2017 06:44:23] "GET / HTTP/1.0" 200 589
+[04/Dec/2017 06:44:24] "GET / HTTP/1.0" 200 589
+[04/Dec/2017 06:44:24] "GET / HTTP/1.0" 200 589
+[04/Dec/2017 06:44:24] "GET /questionare/ HTTP/1.0" 200 864
+Performing system checks...
+
+System check identified no issues (0 silenced).
+December 04, 2017 - 06:40:46
+Django version 1.11.7, using settings 'mysite.settings'
+Starting development server at http://127.0.0.1:8080/
+Quit the server with CONTROL-C.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+December 04, 2017 - 06:45:45
+Django version 1.11.7, using settings 'mysite.settings'
+Starting development server at http://127.0.0.1:8080/
+Quit the server with CONTROL-C.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+December 04, 2017 - 06:45:53
+Django version 1.11.7, using settings 'mysite.settings'
+Starting development server at http://127.0.0.1:8080/
+Quit the server with CONTROL-C.
+[04/Dec/2017 06:46:13] "GET / HTTP/1.0" 200 600
+[04/Dec/2017 06:46:14] "GET / HTTP/1.0" 200 600
+[04/Dec/2017 06:46:14] "GET / HTTP/1.0" 200 600
+[04/Dec/2017 06:46:14] "GET / HTTP/1.0" 200 600
+[04/Dec/2017 06:46:14] "GET / HTTP/1.0" 200 600
+[04/Dec/2017 06:46:14] "GET / HTTP/1.0" 200 600
+[04/Dec/2017 06:46:17] "GET /polls/ HTTP/1.0" 200 289
+[04/Dec/2017 06:46:18] "GET /static/polls/images/background.gif HTTP/1.0" 404 1697
+[04/Dec/2017 06:46:20] "GET / HTTP/1.0" 200 600
+[04/Dec/2017 06:46:20] "GET / HTTP/1.0" 200 600
+[04/Dec/2017 06:46:21] "GET /questionare/ HTTP/1.0" 200 864
+[04/Dec/2017 06:46:33] "GET / HTTP/1.0" 200 600
+[04/Dec/2017 06:46:35] "GET /questionare/ HTTP/1.0" 200 864
+Performing system checks...
+
+System check identified no issues (0 silenced).
+December 04, 2017 - 06:45:55
+Django version 1.11.7, using settings 'mysite.settings'
+Starting development server at http://127.0.0.1:8080/
+Quit the server with CONTROL-C.
+[04/Dec/2017 09:33:06] "GET / HTTP/1.0" 200 606
+[04/Dec/2017 09:33:08] "GET / HTTP/1.0" 200 606
+[04/Dec/2017 09:33:09] "GET /questionare/ HTTP/1.0" 200 841
+[04/Dec/2017 09:33:10] "GET / HTTP/1.0" 200 606
+[04/Dec/2017 09:33:11] "GET / HTTP/1.0" 200 606
+[04/Dec/2017 09:33:11] "GET / HTTP/1.0" 200 606
+[04/Dec/2017 09:33:11] "GET / HTTP/1.0" 200 606
+[04/Dec/2017 09:33:12] "GET / HTTP/1.0" 200 606
+[04/Dec/2017 09:33:21] "GET /questionare/ HTTP/1.0" 200 841
+[04/Dec/2017 09:33:27] "POST /questionare/results/ HTTP/1.0" 200 1163
+[04/Dec/2017 09:33:38] "GET /questionare/ HTTP/1.0" 200 841
+[04/Dec/2017 09:33:43] "POST /questionare/results/ HTTP/1.0" 200 1261
+[04/Dec/2017 09:33:53] "GET / HTTP/1.0" 200 606
+[04/Dec/2017 09:33:55] "GET /questionare/ HTTP/1.0" 200 841
+[04/Dec/2017 09:33:59] "POST /questionare/results/ HTTP/1.0" 200 1362
+[04/Dec/2017 09:34:51] "GET /questionare/ HTTP/1.0" 200 841
+Internal Server Error: /questionare/results/
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/django/core/handlers/exception.py", line 41, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python2.7/dist-packages/django/core/handlers/base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/usr/local/lib/python2.7/dist-packages/django/core/handlers/base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/Qingchuan-Ma/mysite/Questionare/views.py", line 18, in submit
+    person.name = request.POST['name']
+  File "/usr/local/lib/python2.7/dist-packages/django/utils/datastructures.py", line 85, in __getitem__
+    raise MultiValueDictKeyError(repr(key))
+MultiValueDictKeyError: "u'name'"
+[04/Dec/2017 09:34:57] "GET /questionare/results/ HTTP/1.0" 500 68331
+[04/Dec/2017 09:35:06] "POST /questionare/results/ HTTP/1.0" 200 1543
+[04/Dec/2017 09:35:12] "GET /questionare/ HTTP/1.0" 200 841
+[04/Dec/2017 09:35:14] "GET / HTTP/1.0" 200 606
+[04/Dec/2017 09:35:51] "GET /questionare/ HTTP/1.0" 200 841
+[04/Dec/2017 09:35:52] "POST /questionare/results/ HTTP/1.0" 200 1635
+[04/Dec/2017 09:36:29] "POST /questionare/results/ HTTP/1.0" 200 1753
+[04/Dec/2017 09:37:41] "POST /questionare/results/ HTTP/1.0" 200 2044
+[04/Dec/2017 09:37:46] "POST /questionare/results/ HTTP/1.0" 200 2136
+[04/Dec/2017 09:38:40] "POST /questionare/results/ HTTP/1.0" 200 2044
+[04/Dec/2017 09:38:46] "GET /questionare/ HTTP/1.0" 200 841
+[04/Dec/2017 09:38:47] "GET /questionare/ HTTP/1.0" 200 841
+[04/Dec/2017 09:38:47] "GET /questionare/ HTTP/1.0" 200 841
+[04/Dec/2017 09:38:48] "GET /questionare/ HTTP/1.0" 200 841
+[04/Dec/2017 09:38:50] "GET /admin/ HTTP/1.0" 200 6807
+[04/Dec/2017 09:38:50] "GET /static/admin/css/dashboard.css HTTP/1.0" 200 412
+[04/Dec/2017 09:38:51] "GET /static/admin/css/base.css HTTP/1.0" 304 0
+[04/Dec/2017 09:38:51] "GET /static/admin/css/fonts.css HTTP/1.0" 304 0
+[04/Dec/2017 09:38:51] "GET /static/admin/fonts/Roboto-Bold-webfont.woff HTTP/1.0" 200 82564
+[04/Dec/2017 09:38:51] "GET /static/admin/fonts/Roboto-Regular-webfont.woff HTTP/1.0" 304 0
+[04/Dec/2017 09:38:51] "GET /static/admin/fonts/Roboto-Light-webfont.woff HTTP/1.0" 304 0
+[04/Dec/2017 09:38:51] "GET /static/admin/img/icon-addlink.svg HTTP/1.0" 200 331
+[04/Dec/2017 09:38:51] "GET /static/admin/img/icon-changelink.svg HTTP/1.0" 200 380
+[04/Dec/2017 09:38:51] "GET /static/admin/img/icon-deletelink.svg HTTP/1.0" 200 392
+[04/Dec/2017 09:38:52] "GET /admin/Questionare/person/ HTTP/1.0" 200 7613
+[04/Dec/2017 09:38:52] "GET /static/admin/css/changelists.css HTTP/1.0" 200 6170
+[04/Dec/2017 09:38:52] "GET /admin/jsi18n/ HTTP/1.0" 200 3217
+[04/Dec/2017 09:38:52] "GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.0" 200 6591
+[04/Dec/2017 09:38:52] "GET /static/admin/js/jquery.init.js HTTP/1.0" 200 363
+[04/Dec/2017 09:38:52] "GET /static/admin/js/core.js HTTP/1.0" 200 7976
+[04/Dec/2017 09:38:52] "GET /static/admin/js/actions.js HTTP/1.0" 200 6501
+[04/Dec/2017 09:38:52] "GET /static/admin/js/urlify.js HTTP/1.0" 200 8186
+[04/Dec/2017 09:38:52] "GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.0" 200 258648
+[04/Dec/2017 09:38:52] "GET /static/admin/js/prepopulate.js HTTP/1.0" 200 1538
+[04/Dec/2017 09:38:52] "GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.0" 200 128820
+[04/Dec/2017 09:38:52] "GET /static/admin/img/tooltag-add.svg HTTP/1.0" 200 331
+[04/Dec/2017 09:39:03] "GET /admin/Questionare/person/add/ HTTP/1.0" 200 5262
+[04/Dec/2017 09:39:03] "GET /static/admin/css/forms.css HTTP/1.0" 200 8173
+[04/Dec/2017 09:39:03] "GET /static/admin/js/change_form.js HTTP/1.0" 200 712
+[04/Dec/2017 09:39:03] "GET /static/admin/js/prepopulate_init.js HTTP/1.0" 200 495
+[04/Dec/2017 09:39:03] "GET /admin/jsi18n/ HTTP/1.0" 200 3217
+[04/Dec/2017 09:39:03] "GET /static/admin/css/widgets.css HTTP/1.0" 200 10340
+[04/Dec/2017 09:39:05] "GET /admin/Questionare/person/ HTTP/1.0" 200 7613
+[04/Dec/2017 09:39:08] "POST /admin/Questionare/person/ HTTP/1.0" 200 4856
+[04/Dec/2017 09:39:08] "GET /static/admin/js/cancel.js HTTP/1.0" 200 204
+[04/Dec/2017 09:39:09] "POST /admin/Questionare/person/ HTTP/1.0" 302 0
+[04/Dec/2017 09:39:09] "GET /admin/Questionare/person/ HTTP/1.0" 200 4778
+[04/Dec/2017 09:39:09] "GET /admin/jsi18n/ HTTP/1.0" 200 3217
+[04/Dec/2017 09:39:09] "GET /static/admin/img/icon-yes.svg HTTP/1.0" 200 436
+[04/Dec/2017 09:43:25] "GET /admin/Questionare/person/ HTTP/1.0" 200 4654
+[04/Dec/2017 09:43:25] "GET /admin/jsi18n/ HTTP/1.0" 200 3217
+[04/Dec/2017 09:43:25] "GET /admin/Questionare/person/ HTTP/1.0" 200 4654
+[04/Dec/2017 09:43:26] "GET /admin/jsi18n/ HTTP/1.0" 200 3217
+[04/Dec/2017 09:43:26] "GET /admin/Questionare/person/ HTTP/1.0" 200 4654
+[04/Dec/2017 09:43:26] "GET /admin/jsi18n/ HTTP/1.0" 200 3217
+[04/Dec/2017 09:43:30] "GET / HTTP/1.0" 200 603
+[04/Dec/2017 09:43:32] "GET / HTTP/1.0" 200 603
+[04/Dec/2017 09:43:32] "GET / HTTP/1.0" 200 603
+[04/Dec/2017 09:43:32] "GET / HTTP/1.0" 200 603
+[04/Dec/2017 09:43:32] "GET / HTTP/1.0" 200 603
+[04/Dec/2017 09:43:33] "GET /questionare/ HTTP/1.0" 200 841
+[04/Dec/2017 09:43:48] "POST /questionare/results/ HTTP/1.0" 200 869
+[04/Dec/2017 09:43:53] "GET /questionare/ HTTP/1.0" 200 841
+[04/Dec/2017 09:44:03] "GET /admin/Questionare/person/ HTTP/1.0" 200 4880
+Invalid HTTP_HOST header: 'fortet'. You may need to add u'fortet' to ALLOWED_HOSTS.
+[04/Dec/2017 10:24:22] "GET / HTTP/1.0" 400 59850
+Invalid HTTP_HOST header: 'fortet'. You may need to add u'fortet' to ALLOWED_HOSTS.
+[04/Dec/2017 10:24:23] "OPTIONS / HTTP/1.0" 400 59878
+Invalid HTTP_HOST header: 'fortet'. You may need to add u'fortet' to ALLOWED_HOSTS.
+[04/Dec/2017 11:45:09] "GET / HTTP/1.0" 400 59849
+Invalid HTTP_HOST header: 'www.baidu.com'. You may need to add u'www.baidu.com' to ALLOWED_HOSTS.
+[04/Dec/2017 14:08:48] "GET /cache/global/img/gs.gif HTTP/1.0" 400 60636
+Not Found: /login.action
+[04/Dec/2017 18:19:24] "POST /login.action HTTP/1.0" 404 2308
+Not Found: /login.action
+[04/Dec/2017 18:19:24] "POST /login.action HTTP/1.0" 404 2308
+Not Found: /login.action
+[04/Dec/2017 18:19:24] "POST /login.action HTTP/1.0" 404 2308
+Not Found: /login.action
+[04/Dec/2017 18:19:24] "POST /login.action HTTP/1.0" 404 2308
+Not Found: /login.action
+[04/Dec/2017 18:19:24] "POST /login.action HTTP/1.0" 404 2308
+Not Found: /login.action
+[04/Dec/2017 18:19:25] "POST /login.action HTTP/1.0" 404 2308
+Performing system checks...
+
+System check identified no issues (0 silenced).
+December 04, 2017 - 06:47:54
+Django version 1.11.7, using settings 'mysite.settings'
+Starting development server at http://127.0.0.1:8080/
+Quit the server with CONTROL-C.
+Unhandled exception in thread started by <function wrapper at 0x7fcb2c668cf8>
+Performing system checks...
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/django/utils/autoreload.py", line 228, in wrapper
+    fn(*args, **kwargs)
+  File "/usr/local/lib/python2.7/dist-packages/django/core/management/commands/runserver.py", line 125, in inner_run
+    self.check(display_num_errors=True)
+  File "/usr/local/lib/python2.7/dist-packages/django/core/management/base.py", line 359, in check
+    include_deployment_checks=include_deployment_checks,
+  File "/usr/local/lib/python2.7/dist-packages/django/core/management/base.py", line 346, in _run_checks
+    return checks.run_checks(**kwargs)
+  File "/usr/local/lib/python2.7/dist-packages/django/core/checks/registry.py", line 81, in run_checks
+    new_errors = check(app_configs=app_configs)
+  File "/usr/local/lib/python2.7/dist-packages/django/core/checks/urls.py", line 16, in check_url_config
+    return check_resolver(resolver)
+  File "/usr/local/lib/python2.7/dist-packages/django/core/checks/urls.py", line 26, in check_resolver
+    return check_method()
+  File "/usr/local/lib/python2.7/dist-packages/django/urls/resolvers.py", line 254, in check
+    for pattern in self.url_patterns:
+  File "/usr/local/lib/python2.7/dist-packages/django/utils/functional.py", line 35, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/usr/local/lib/python2.7/dist-packages/django/urls/resolvers.py", line 405, in url_patterns
+    patterns = getattr(self.urlconf_module, "urlpatterns", self.urlconf_module)
+  File "/usr/local/lib/python2.7/dist-packages/django/utils/functional.py", line 35, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/usr/local/lib/python2.7/dist-packages/django/urls/resolvers.py", line 398, in urlconf_module
+    return import_module(self.urlconf_name)
+  File "/usr/lib/python2.7/importlib/__init__.py", line 37, in import_module
+    __import__(name)
+  File "/home/Qingchuan-Ma/mysite/mysite/urls.py", line 20, in <module>
+    from restdemo.quickstart import views as rest_use
+ImportError: No module named quickstart
+Unhandled exception in thread started by <function wrapper at 0x7f4ddf8a2cf8>
+Performing system checks...
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/django/utils/autoreload.py", line 228, in wrapper
+    fn(*args, **kwargs)
+  File "/usr/local/lib/python2.7/dist-packages/django/core/management/commands/runserver.py", line 125, in inner_run
+    self.check(display_num_errors=True)
+  File "/usr/local/lib/python2.7/dist-packages/django/core/management/base.py", line 359, in check
+    include_deployment_checks=include_deployment_checks,
+  File "/usr/local/lib/python2.7/dist-packages/django/core/management/base.py", line 346, in _run_checks
+    return checks.run_checks(**kwargs)
+  File "/usr/local/lib/python2.7/dist-packages/django/core/checks/registry.py", line 81, in run_checks
+    new_errors = check(app_configs=app_configs)
+  File "/usr/local/lib/python2.7/dist-packages/django/core/checks/urls.py", line 16, in check_url_config
+    return check_resolver(resolver)
+  File "/usr/local/lib/python2.7/dist-packages/django/core/checks/urls.py", line 26, in check_resolver
+    return check_method()
+  File "/usr/local/lib/python2.7/dist-packages/django/urls/resolvers.py", line 254, in check
+    for pattern in self.url_patterns:
+  File "/usr/local/lib/python2.7/dist-packages/django/utils/functional.py", line 35, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/usr/local/lib/python2.7/dist-packages/django/urls/resolvers.py", line 405, in url_patterns
+    patterns = getattr(self.urlconf_module, "urlpatterns", self.urlconf_module)
+  File "/usr/local/lib/python2.7/dist-packages/django/utils/functional.py", line 35, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/usr/local/lib/python2.7/dist-packages/django/urls/resolvers.py", line 398, in urlconf_module
+    return import_module(self.urlconf_name)
+  File "/usr/lib/python2.7/importlib/__init__.py", line 37, in import_module
+    __import__(name)
+  File "/home/Qingchuan-Ma/mysite/mysite/urls.py", line 20, in <module>
+    from restdemo.quickstart import views as rest_views
+ImportError: No module named quickstart
+Unhandled exception in thread started by <function wrapper at 0x7fb799407cf8>
+Performing system checks...
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/django/utils/autoreload.py", line 228, in wrapper
+    fn(*args, **kwargs)
+  File "/usr/local/lib/python2.7/dist-packages/django/core/management/commands/runserver.py", line 125, in inner_run
+    self.check(display_num_errors=True)
+  File "/usr/local/lib/python2.7/dist-packages/django/core/management/base.py", line 359, in check
+    include_deployment_checks=include_deployment_checks,
+  File "/usr/local/lib/python2.7/dist-packages/django/core/management/base.py", line 346, in _run_checks
+    return checks.run_checks(**kwargs)
+  File "/usr/local/lib/python2.7/dist-packages/django/core/checks/registry.py", line 81, in run_checks
+    new_errors = check(app_configs=app_configs)
+  File "/usr/local/lib/python2.7/dist-packages/django/core/checks/urls.py", line 16, in check_url_config
+    return check_resolver(resolver)
+  File "/usr/local/lib/python2.7/dist-packages/django/core/checks/urls.py", line 26, in check_resolver
+    return check_method()
+  File "/usr/local/lib/python2.7/dist-packages/django/urls/resolvers.py", line 254, in check
+    for pattern in self.url_patterns:
+  File "/usr/local/lib/python2.7/dist-packages/django/utils/functional.py", line 35, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/usr/local/lib/python2.7/dist-packages/django/urls/resolvers.py", line 405, in url_patterns
+    patterns = getattr(self.urlconf_module, "urlpatterns", self.urlconf_module)
+  File "/usr/local/lib/python2.7/dist-packages/django/utils/functional.py", line 35, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/usr/local/lib/python2.7/dist-packages/django/urls/resolvers.py", line 398, in urlconf_module
+    return import_module(self.urlconf_name)
+  File "/usr/lib/python2.7/importlib/__init__.py", line 37, in import_module
+    __import__(name)
+  File "/home/Qingchuan-Ma/mysite/mysite/urls.py", line 20, in <module>
+    from restdemo.quickstart import views as rest_views
+ImportError: No module named quickstart
+Unhandled exception in thread started by <function wrapper at 0x7f8a22f58cf8>
+Performing system checks...
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/django/utils/autoreload.py", line 228, in wrapper
+    fn(*args, **kwargs)
+  File "/usr/local/lib/python2.7/dist-packages/django/core/management/commands/runserver.py", line 125, in inner_run
+    self.check(display_num_errors=True)
+  File "/usr/local/lib/python2.7/dist-packages/django/core/management/base.py", line 359, in check
+    include_deployment_checks=include_deployment_checks,
+  File "/usr/local/lib/python2.7/dist-packages/django/core/management/base.py", line 346, in _run_checks
+    return checks.run_checks(**kwargs)
+  File "/usr/local/lib/python2.7/dist-packages/django/core/checks/registry.py", line 81, in run_checks
+    new_errors = check(app_configs=app_configs)
+  File "/usr/local/lib/python2.7/dist-packages/django/core/checks/urls.py", line 16, in check_url_config
+    return check_resolver(resolver)
+  File "/usr/local/lib/python2.7/dist-packages/django/core/checks/urls.py", line 26, in check_resolver
+    return check_method()
+  File "/usr/local/lib/python2.7/dist-packages/django/urls/resolvers.py", line 254, in check
+    for pattern in self.url_patterns:
+  File "/usr/local/lib/python2.7/dist-packages/django/utils/functional.py", line 35, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/usr/local/lib/python2.7/dist-packages/django/urls/resolvers.py", line 405, in url_patterns
+    patterns = getattr(self.urlconf_module, "urlpatterns", self.urlconf_module)
+  File "/usr/local/lib/python2.7/dist-packages/django/utils/functional.py", line 35, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/usr/local/lib/python2.7/dist-packages/django/urls/resolvers.py", line 398, in urlconf_module
+    return import_module(self.urlconf_name)
+  File "/usr/lib/python2.7/importlib/__init__.py", line 37, in import_module
+    __import__(name)
+  File "/home/Qingchuan-Ma/mysite/mysite/urls.py", line 34
+    ]
+    ^
+SyntaxError: invalid syntax
+Unhandled exception in thread started by <function wrapper at 0x7f848b01dcf8>
+Performing system checks...
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/django/utils/autoreload.py", line 228, in wrapper
+    fn(*args, **kwargs)
+  File "/usr/local/lib/python2.7/dist-packages/django/core/management/commands/runserver.py", line 125, in inner_run
+    self.check(display_num_errors=True)
+  File "/usr/local/lib/python2.7/dist-packages/django/core/management/base.py", line 359, in check
+    include_deployment_checks=include_deployment_checks,
+  File "/usr/local/lib/python2.7/dist-packages/django/core/management/base.py", line 346, in _run_checks
+    return checks.run_checks(**kwargs)
+  File "/usr/local/lib/python2.7/dist-packages/django/core/checks/registry.py", line 81, in run_checks
+    new_errors = check(app_configs=app_configs)
+  File "/usr/local/lib/python2.7/dist-packages/django/core/checks/urls.py", line 16, in check_url_config
+    return check_resolver(resolver)
+  File "/usr/local/lib/python2.7/dist-packages/django/core/checks/urls.py", line 26, in check_resolver
+    return check_method()
+  File "/usr/local/lib/python2.7/dist-packages/django/urls/resolvers.py", line 254, in check
+    for pattern in self.url_patterns:
+  File "/usr/local/lib/python2.7/dist-packages/django/utils/functional.py", line 35, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/usr/local/lib/python2.7/dist-packages/django/urls/resolvers.py", line 405, in url_patterns
+    patterns = getattr(self.urlconf_module, "urlpatterns", self.urlconf_module)
+  File "/usr/local/lib/python2.7/dist-packages/django/utils/functional.py", line 35, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/usr/local/lib/python2.7/dist-packages/django/urls/resolvers.py", line 398, in urlconf_module
+    return import_module(self.urlconf_name)
+  File "/usr/lib/python2.7/importlib/__init__.py", line 37, in import_module
+    __import__(name)
+  File "/home/Qingchuan-Ma/mysite/mysite/urls.py", line 34
+    ]
+    ^
+SyntaxError: invalid syntax
+Unhandled exception in thread started by <function wrapper at 0x7f06e0f85cf8>
+Performing system checks...
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/django/utils/autoreload.py", line 228, in wrapper
+    fn(*args, **kwargs)
+  File "/usr/local/lib/python2.7/dist-packages/django/core/management/commands/runserver.py", line 125, in inner_run
+    self.check(display_num_errors=True)
+  File "/usr/local/lib/python2.7/dist-packages/django/core/management/base.py", line 359, in check
+    include_deployment_checks=include_deployment_checks,
+  File "/usr/local/lib/python2.7/dist-packages/django/core/management/base.py", line 346, in _run_checks
+    return checks.run_checks(**kwargs)
+  File "/usr/local/lib/python2.7/dist-packages/django/core/checks/registry.py", line 81, in run_checks
+    new_errors = check(app_configs=app_configs)
+  File "/usr/local/lib/python2.7/dist-packages/django/core/checks/urls.py", line 16, in check_url_config
+    return check_resolver(resolver)
+  File "/usr/local/lib/python2.7/dist-packages/django/core/checks/urls.py", line 26, in check_resolver
+    return check_method()
+  File "/usr/local/lib/python2.7/dist-packages/django/urls/resolvers.py", line 254, in check
+    for pattern in self.url_patterns:
+  File "/usr/local/lib/python2.7/dist-packages/django/utils/functional.py", line 35, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/usr/local/lib/python2.7/dist-packages/django/urls/resolvers.py", line 405, in url_patterns
+    patterns = getattr(self.urlconf_module, "urlpatterns", self.urlconf_module)
+  File "/usr/local/lib/python2.7/dist-packages/django/utils/functional.py", line 35, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/usr/local/lib/python2.7/dist-packages/django/urls/resolvers.py", line 398, in urlconf_module
+    return import_module(self.urlconf_name)
+  File "/usr/lib/python2.7/importlib/__init__.py", line 37, in import_module
+    __import__(name)
+  File "/home/Qingchuan-Ma/mysite/mysite/urls.py", line 34
+    ]
+    ^
+SyntaxError: invalid syntax
+Unhandled exception in thread started by <function wrapper at 0x7f8298144cf8>
+Performing system checks...
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/django/utils/autoreload.py", line 228, in wrapper
+    fn(*args, **kwargs)
+  File "/usr/local/lib/python2.7/dist-packages/django/core/management/commands/runserver.py", line 125, in inner_run
+    self.check(display_num_errors=True)
+  File "/usr/local/lib/python2.7/dist-packages/django/core/management/base.py", line 359, in check
+    include_deployment_checks=include_deployment_checks,
+  File "/usr/local/lib/python2.7/dist-packages/django/core/management/base.py", line 346, in _run_checks
+    return checks.run_checks(**kwargs)
+  File "/usr/local/lib/python2.7/dist-packages/django/core/checks/registry.py", line 81, in run_checks
+    new_errors = check(app_configs=app_configs)
+  File "/usr/local/lib/python2.7/dist-packages/django/core/checks/urls.py", line 16, in check_url_config
+    return check_resolver(resolver)
+  File "/usr/local/lib/python2.7/dist-packages/django/core/checks/urls.py", line 26, in check_resolver
+    return check_method()
+  File "/usr/local/lib/python2.7/dist-packages/django/urls/resolvers.py", line 254, in check
+    for pattern in self.url_patterns:
+  File "/usr/local/lib/python2.7/dist-packages/django/utils/functional.py", line 35, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/usr/local/lib/python2.7/dist-packages/django/urls/resolvers.py", line 405, in url_patterns
+    patterns = getattr(self.urlconf_module, "urlpatterns", self.urlconf_module)
+  File "/usr/local/lib/python2.7/dist-packages/django/utils/functional.py", line 35, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/usr/local/lib/python2.7/dist-packages/django/urls/resolvers.py", line 398, in urlconf_module
+    return import_module(self.urlconf_name)
+  File "/usr/lib/python2.7/importlib/__init__.py", line 37, in import_module
+    __import__(name)
+  File "/home/Qingchuan-Ma/mysite/mysite/urls.py", line 20, in <module>
+    from restdemo.quickstart import views as rest_views
+ImportError: No module named quickstart
+Unhandled exception in thread started by <function wrapper at 0x7f8341c7ccf8>
+Performing system checks...
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/django/utils/autoreload.py", line 228, in wrapper
+    fn(*args, **kwargs)
+  File "/usr/local/lib/python2.7/dist-packages/django/core/management/commands/runserver.py", line 125, in inner_run
+    self.check(display_num_errors=True)
+  File "/usr/local/lib/python2.7/dist-packages/django/core/management/base.py", line 359, in check
+    include_deployment_checks=include_deployment_checks,
+  File "/usr/local/lib/python2.7/dist-packages/django/core/management/base.py", line 346, in _run_checks
+    return checks.run_checks(**kwargs)
+  File "/usr/local/lib/python2.7/dist-packages/django/core/checks/registry.py", line 81, in run_checks
+    new_errors = check(app_configs=app_configs)
+  File "/usr/local/lib/python2.7/dist-packages/django/core/checks/urls.py", line 16, in check_url_config
+    return check_resolver(resolver)
+  File "/usr/local/lib/python2.7/dist-packages/django/core/checks/urls.py", line 26, in check_resolver
+    return check_method()
+  File "/usr/local/lib/python2.7/dist-packages/django/urls/resolvers.py", line 254, in check
+    for pattern in self.url_patterns:
+  File "/usr/local/lib/python2.7/dist-packages/django/utils/functional.py", line 35, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/usr/local/lib/python2.7/dist-packages/django/urls/resolvers.py", line 405, in url_patterns
+    patterns = getattr(self.urlconf_module, "urlpatterns", self.urlconf_module)
+  File "/usr/local/lib/python2.7/dist-packages/django/utils/functional.py", line 35, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/usr/local/lib/python2.7/dist-packages/django/urls/resolvers.py", line 398, in urlconf_module
+    return import_module(self.urlconf_name)
+  File "/usr/lib/python2.7/importlib/__init__.py", line 37, in import_module
+    __import__(name)
+  File "/home/Qingchuan-Ma/mysite/mysite/urls.py", line 20, in <module>
+    from restdemo import views as rest_views
+  File "/home/Qingchuan-Ma/mysite/restdemo/views.py", line 3, in <module>
+    from tutorial.quickstart.serializers import UserSerializer, GroupSerializer
+ImportError: No module named tutorial.quickstart.serializers
+Performing system checks...
+
+System check identified no issues (0 silenced).
+December 05, 2017 - 01:35:13
+Django version 1.11.7, using settings 'mysite.settings'
+Starting development server at http://127.0.0.1:8080/
+Quit the server with CONTROL-C.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+December 05, 2017 - 01:35:17
+Django version 1.11.7, using settings 'mysite.settings'
+Starting development server at http://127.0.0.1:8080/
+Quit the server with CONTROL-C.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+December 05, 2017 - 01:36:25
+Django version 1.11.7, using settings 'mysite.settings'
+Starting development server at http://127.0.0.1:8080/
+Quit the server with CONTROL-C.
+System check identified some issues:
+
+WARNINGS:
+?: (rest_framework.W001) You have specified a default PAGE_SIZE pagination rest_framework setting,without specifying also a DEFAULT_PAGINATION_CLASS.
+	HINT: The default for DEFAULT_PAGINATION_CLASS is None. In previous versions this was PageNumberPagination. If you wish to define PAGE_SIZE globally whilst defining pagination_class on a per-view basis you may silence this check.
+
+System check identified 1 issue (0 silenced).
+Performing system checks...
+
+December 05, 2017 - 01:36:37
+Django version 1.11.7, using settings 'mysite.settings'
+Starting development server at http://127.0.0.1:8080/
+Quit the server with CONTROL-C.
+System check identified some issues:
+
+WARNINGS:
+?: (rest_framework.W001) You have specified a default PAGE_SIZE pagination rest_framework setting,without specifying also a DEFAULT_PAGINATION_CLASS.
+	HINT: The default for DEFAULT_PAGINATION_CLASS is None. In previous versions this was PageNumberPagination. If you wish to define PAGE_SIZE globally whilst defining pagination_class on a per-view basis you may silence this check.
+
+System check identified 1 issue (0 silenced).
+Performing system checks...
+
+December 05, 2017 - 01:44:56
+Django version 1.11.7, using settings 'mysite.settings'
+Starting development server at http://127.0.0.1:8080/
+Quit the server with CONTROL-C.
+Unhandled exception in thread started by <function wrapper at 0x7fcffe8af5f0>
+Performing system checks...
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/django/utils/autoreload.py", line 228, in wrapper
+    fn(*args, **kwargs)
+  File "/usr/local/lib/python2.7/dist-packages/django/core/management/commands/runserver.py", line 125, in inner_run
+    self.check(display_num_errors=True)
+  File "/usr/local/lib/python2.7/dist-packages/django/core/management/base.py", line 359, in check
+    include_deployment_checks=include_deployment_checks,
+  File "/usr/local/lib/python2.7/dist-packages/django/core/management/base.py", line 346, in _run_checks
+    return checks.run_checks(**kwargs)
+  File "/usr/local/lib/python2.7/dist-packages/django/core/checks/registry.py", line 81, in run_checks
+    new_errors = check(app_configs=app_configs)
+  File "/usr/local/lib/python2.7/dist-packages/django/core/checks/urls.py", line 16, in check_url_config
+    return check_resolver(resolver)
+  File "/usr/local/lib/python2.7/dist-packages/django/core/checks/urls.py", line 26, in check_resolver
+    return check_method()
+  File "/usr/local/lib/python2.7/dist-packages/django/urls/resolvers.py", line 254, in check
+    for pattern in self.url_patterns:
+  File "/usr/local/lib/python2.7/dist-packages/django/utils/functional.py", line 35, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/usr/local/lib/python2.7/dist-packages/django/urls/resolvers.py", line 405, in url_patterns
+    patterns = getattr(self.urlconf_module, "urlpatterns", self.urlconf_module)
+  File "/usr/local/lib/python2.7/dist-packages/django/utils/functional.py", line 35, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/usr/local/lib/python2.7/dist-packages/django/urls/resolvers.py", line 398, in urlconf_module
+    return import_module(self.urlconf_name)
+  File "/usr/lib/python2.7/importlib/__init__.py", line 37, in import_module
+    __import__(name)
+  File "/home/Qingchuan-Ma/mysite/mysite/urls.py", line 25, in <module>
+    url(r'^restdemo/', include('restdemo.urls')),
+  File "/usr/local/lib/python2.7/dist-packages/django/conf/urls/__init__.py", line 50, in include
+    urlconf_module = import_module(urlconf_module)
+  File "/usr/lib/python2.7/importlib/__init__.py", line 37, in import_module
+    __import__(name)
+  File "/home/Qingchuan-Ma/mysite/restdemo/urls.py", line 8, in <module>
+    router.register(r'users', rest_views.UserViewSet)
+NameError: name 'rest_views' is not defined
+Unhandled exception in thread started by <function wrapper at 0x7f12da4845f0>
+Performing system checks...
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/django/utils/autoreload.py", line 228, in wrapper
+    fn(*args, **kwargs)
+  File "/usr/local/lib/python2.7/dist-packages/django/core/management/commands/runserver.py", line 125, in inner_run
+    self.check(display_num_errors=True)
+  File "/usr/local/lib/python2.7/dist-packages/django/core/management/base.py", line 359, in check
+    include_deployment_checks=include_deployment_checks,
+  File "/usr/local/lib/python2.7/dist-packages/django/core/management/base.py", line 346, in _run_checks
+    return checks.run_checks(**kwargs)
+  File "/usr/local/lib/python2.7/dist-packages/django/core/checks/registry.py", line 81, in run_checks
+    new_errors = check(app_configs=app_configs)
+  File "/usr/local/lib/python2.7/dist-packages/django/core/checks/urls.py", line 16, in check_url_config
+    return check_resolver(resolver)
+  File "/usr/local/lib/python2.7/dist-packages/django/core/checks/urls.py", line 26, in check_resolver
+    return check_method()
+  File "/usr/local/lib/python2.7/dist-packages/django/urls/resolvers.py", line 254, in check
+    for pattern in self.url_patterns:
+  File "/usr/local/lib/python2.7/dist-packages/django/utils/functional.py", line 35, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/usr/local/lib/python2.7/dist-packages/django/urls/resolvers.py", line 405, in url_patterns
+    patterns = getattr(self.urlconf_module, "urlpatterns", self.urlconf_module)
+  File "/usr/local/lib/python2.7/dist-packages/django/utils/functional.py", line 35, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/usr/local/lib/python2.7/dist-packages/django/urls/resolvers.py", line 398, in urlconf_module
+    return import_module(self.urlconf_name)
+  File "/usr/lib/python2.7/importlib/__init__.py", line 37, in import_module
+    __import__(name)
+  File "/home/Qingchuan-Ma/mysite/mysite/urls.py", line 25, in <module>
+    url(r'^restdemo/', include('restdemo.urls')),
+  File "/usr/local/lib/python2.7/dist-packages/django/conf/urls/__init__.py", line 50, in include
+    urlconf_module = import_module(urlconf_module)
+  File "/usr/lib/python2.7/importlib/__init__.py", line 37, in import_module
+    __import__(name)
+  File "/home/Qingchuan-Ma/mysite/restdemo/urls.py", line 13, in <module>
+    url(r'^$', include(router.urls)),
+NameError: name 'url' is not defined
+System check identified some issues:
+
+WARNINGS:
+?: (rest_framework.W001) You have specified a default PAGE_SIZE pagination rest_framework setting,without specifying also a DEFAULT_PAGINATION_CLASS.
+	HINT: The default for DEFAULT_PAGINATION_CLASS is None. In previous versions this was PageNumberPagination. If you wish to define PAGE_SIZE globally whilst defining pagination_class on a per-view basis you may silence this check.
+?: (urls.W001) Your URL pattern '^$' uses include with a regex ending with a '$'. Remove the dollar from the regex to avoid problems including URLs.
+
+System check identified 2 issues (0 silenced).
+Performing system checks...
+
+December 05, 2017 - 01:48:01
+Django version 1.11.7, using settings 'mysite.settings'
+Starting development server at http://127.0.0.1:8080/
+Quit the server with CONTROL-C.
+System check identified some issues:
+
+WARNINGS:
+?: (rest_framework.W001) You have specified a default PAGE_SIZE pagination rest_framework setting,without specifying also a DEFAULT_PAGINATION_CLASS.
+	HINT: The default for DEFAULT_PAGINATION_CLASS is None. In previous versions this was PageNumberPagination. If you wish to define PAGE_SIZE globally whilst defining pagination_class on a per-view basis you may silence this check.
+?: (urls.W001) Your URL pattern '^$' uses include with a regex ending with a '$'. Remove the dollar from the regex to avoid problems including URLs.
+
+System check identified 2 issues (0 silenced).
+Performing system checks...
+
+December 05, 2017 - 01:48:03
+Django version 1.11.7, using settings 'mysite.settings'
+Starting development server at http://127.0.0.1:8080/
+Quit the server with CONTROL-C.
+System check identified some issues:
+
+WARNINGS:
+?: (rest_framework.W001) You have specified a default PAGE_SIZE pagination rest_framework setting,without specifying also a DEFAULT_PAGINATION_CLASS.
+	HINT: The default for DEFAULT_PAGINATION_CLASS is None. In previous versions this was PageNumberPagination. If you wish to define PAGE_SIZE globally whilst defining pagination_class on a per-view basis you may silence this check.
+
+System check identified 1 issue (0 silenced).
+Invalid HTTP_HOST header: 'fortet'. You may need to add u'fortet' to ALLOWED_HOSTS.
+[05/Dec/2017 09:51:30] "GET / HTTP/1.0" 400 60130
+Invalid HTTP_HOST header: 'www.baidu.com'. You may need to add u'www.baidu.com' to ALLOWED_HOSTS.
+[05/Dec/2017 13:03:34] "GET /cache/global/img/gs.gif HTTP/1.0" 400 60918
+Performing system checks...
+
+December 05, 2017 - 01:49:29
+Django version 1.11.7, using settings 'mysite.settings'
+Starting development server at http://127.0.0.1:8080/
+Quit the server with CONTROL-C.
+System check identified some issues:
+
+WARNINGS:
+?: (rest_framework.W001) You have specified a default PAGE_SIZE pagination rest_framework setting,without specifying also a DEFAULT_PAGINATION_CLASS.
+	HINT: The default for DEFAULT_PAGINATION_CLASS is None. In previous versions this was PageNumberPagination. If you wish to define PAGE_SIZE globally whilst defining pagination_class on a per-view basis you may silence this check.
+
+System check identified 1 issue (0 silenced).
+Performing system checks...
+
+December 05, 2017 - 14:59:13
+Django version 1.11.7, using settings 'mysite.settings'
+Starting development server at http://127.0.0.1:8080/
+Quit the server with CONTROL-C.
+System check identified some issues:
+
+WARNINGS:
+?: (rest_framework.W001) You have specified a default PAGE_SIZE pagination rest_framework setting,without specifying also a DEFAULT_PAGINATION_CLASS.
+	HINT: The default for DEFAULT_PAGINATION_CLASS is None. In previous versions this was PageNumberPagination. If you wish to define PAGE_SIZE globally whilst defining pagination_class on a per-view basis you may silence this check.
+
+System check identified 1 issue (0 silenced).
+Performing system checks...
+
+December 05, 2017 - 15:12:23
+Django version 1.11.7, using settings 'mysite.settings'
+Starting development server at http://127.0.0.1:8080/
+Quit the server with CONTROL-C.
+Unhandled exception in thread started by <function wrapper at 0x7fbd18c0a5f0>
+Performing system checks...
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/django/utils/autoreload.py", line 228, in wrapper
+    fn(*args, **kwargs)
+  File "/usr/local/lib/python2.7/dist-packages/django/core/management/commands/runserver.py", line 125, in inner_run
+    self.check(display_num_errors=True)
+  File "/usr/local/lib/python2.7/dist-packages/django/core/management/base.py", line 359, in check
+    include_deployment_checks=include_deployment_checks,
+  File "/usr/local/lib/python2.7/dist-packages/django/core/management/base.py", line 346, in _run_checks
+    return checks.run_checks(**kwargs)
+  File "/usr/local/lib/python2.7/dist-packages/django/core/checks/registry.py", line 81, in run_checks
+    new_errors = check(app_configs=app_configs)
+  File "/usr/local/lib/python2.7/dist-packages/django/core/checks/urls.py", line 16, in check_url_config
+    return check_resolver(resolver)
+  File "/usr/local/lib/python2.7/dist-packages/django/core/checks/urls.py", line 26, in check_resolver
+    return check_method()
+  File "/usr/local/lib/python2.7/dist-packages/django/urls/resolvers.py", line 254, in check
+    for pattern in self.url_patterns:
+  File "/usr/local/lib/python2.7/dist-packages/django/utils/functional.py", line 35, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/usr/local/lib/python2.7/dist-packages/django/urls/resolvers.py", line 405, in url_patterns
+    patterns = getattr(self.urlconf_module, "urlpatterns", self.urlconf_module)
+  File "/usr/local/lib/python2.7/dist-packages/django/utils/functional.py", line 35, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/usr/local/lib/python2.7/dist-packages/django/urls/resolvers.py", line 398, in urlconf_module
+    return import_module(self.urlconf_name)
+  File "/usr/lib/python2.7/importlib/__init__.py", line 37, in import_module
+    __import__(name)
+  File "/home/Qingchuan-Ma/mysite/mysite/urls.py", line 26, in <module>
+    url(r'^restdemo/', include('bootstrap3.urls')),
+  File "/usr/local/lib/python2.7/dist-packages/django/conf/urls/__init__.py", line 50, in include
+    urlconf_module = import_module(urlconf_module)
+  File "/usr/lib/python2.7/importlib/__init__.py", line 37, in import_module
+    __import__(name)
+ImportError: No module named urls
+System check identified some issues:
+
+WARNINGS:
+?: (rest_framework.W001) You have specified a default PAGE_SIZE pagination rest_framework setting,without specifying also a DEFAULT_PAGINATION_CLASS.
+	HINT: The default for DEFAULT_PAGINATION_CLASS is None. In previous versions this was PageNumberPagination. If you wish to define PAGE_SIZE globally whilst defining pagination_class on a per-view basis you may silence this check.
+
+System check identified 1 issue (0 silenced).
+Performing system checks...
+
+December 05, 2017 - 16:20:30
+Django version 1.11.7, using settings 'mysite.settings'
+Starting development server at http://127.0.0.1:8080/
+Quit the server with CONTROL-C.
+System check identified some issues:
+
+WARNINGS:
+?: (rest_framework.W001) You have specified a default PAGE_SIZE pagination rest_framework setting,without specifying also a DEFAULT_PAGINATION_CLASS.
+	HINT: The default for DEFAULT_PAGINATION_CLASS is None. In previous versions this was PageNumberPagination. If you wish to define PAGE_SIZE globally whilst defining pagination_class on a per-view basis you may silence this check.
+
+System check identified 1 issue (0 silenced).
+Performing system checks...
+
+December 05, 2017 - 16:37:34
+Django version 1.11.7, using settings 'mysite.settings'
+Starting development server at http://127.0.0.1:8080/
+Quit the server with CONTROL-C.
+System check identified some issues:
+
+WARNINGS:
+?: (rest_framework.W001) You have specified a default PAGE_SIZE pagination rest_framework setting,without specifying also a DEFAULT_PAGINATION_CLASS.
+	HINT: The default for DEFAULT_PAGINATION_CLASS is None. In previous versions this was PageNumberPagination. If you wish to define PAGE_SIZE globally whilst defining pagination_class on a per-view basis you may silence this check.
+
+System check identified 1 issue (0 silenced).
+Performing system checks...
+
+December 05, 2017 - 16:37:37
+Django version 1.11.7, using settings 'mysite.settings'
+Starting development server at http://127.0.0.1:8080/
+Quit the server with CONTROL-C.
+Unhandled exception in thread started by <function wrapper at 0x7fd94f78f5f0>
+Performing system checks...
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/django/utils/autoreload.py", line 228, in wrapper
+    fn(*args, **kwargs)
+  File "/usr/local/lib/python2.7/dist-packages/django/core/management/commands/runserver.py", line 125, in inner_run
+    self.check(display_num_errors=True)
+  File "/usr/local/lib/python2.7/dist-packages/django/core/management/base.py", line 359, in check
+    include_deployment_checks=include_deployment_checks,
+  File "/usr/local/lib/python2.7/dist-packages/django/core/management/base.py", line 346, in _run_checks
+    return checks.run_checks(**kwargs)
+  File "/usr/local/lib/python2.7/dist-packages/django/core/checks/registry.py", line 81, in run_checks
+    new_errors = check(app_configs=app_configs)
+  File "/usr/local/lib/python2.7/dist-packages/django/core/checks/urls.py", line 16, in check_url_config
+    return check_resolver(resolver)
+  File "/usr/local/lib/python2.7/dist-packages/django/core/checks/urls.py", line 26, in check_resolver
+    return check_method()
+  File "/usr/local/lib/python2.7/dist-packages/django/urls/resolvers.py", line 254, in check
+    for pattern in self.url_patterns:
+  File "/usr/local/lib/python2.7/dist-packages/django/utils/functional.py", line 35, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/usr/local/lib/python2.7/dist-packages/django/urls/resolvers.py", line 405, in url_patterns
+    patterns = getattr(self.urlconf_module, "urlpatterns", self.urlconf_module)
+  File "/usr/local/lib/python2.7/dist-packages/django/utils/functional.py", line 35, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/usr/local/lib/python2.7/dist-packages/django/urls/resolvers.py", line 398, in urlconf_module
+    return import_module(self.urlconf_name)
+  File "/usr/lib/python2.7/importlib/__init__.py", line 37, in import_module
+    __import__(name)
+  File "/home/Qingchuan-Ma/mysite/mysite/urls.py", line 26, in <module>
+    url(r'^bootstrapdemo/', include('bootstrapdemo.urls')),
+  File "/usr/local/lib/python2.7/dist-packages/django/conf/urls/__init__.py", line 50, in include
+    urlconf_module = import_module(urlconf_module)
+  File "/usr/lib/python2.7/importlib/__init__.py", line 37, in import_module
+    __import__(name)
+  File "/home/Qingchuan-Ma/mysite/bootstrapdemo/urls.py", line 11
+    url(r'^$', DefaultFormView.as_view().name=index),
+SyntaxError: keyword can't be an expression
+Unhandled exception in thread started by <function wrapper at 0x7f2b368695f0>
+Performing system checks...
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/django/utils/autoreload.py", line 228, in wrapper
+    fn(*args, **kwargs)
+  File "/usr/local/lib/python2.7/dist-packages/django/core/management/commands/runserver.py", line 125, in inner_run
+    self.check(display_num_errors=True)
+  File "/usr/local/lib/python2.7/dist-packages/django/core/management/base.py", line 359, in check
+    include_deployment_checks=include_deployment_checks,
+  File "/usr/local/lib/python2.7/dist-packages/django/core/management/base.py", line 346, in _run_checks
+    return checks.run_checks(**kwargs)
+  File "/usr/local/lib/python2.7/dist-packages/django/core/checks/registry.py", line 81, in run_checks
+    new_errors = check(app_configs=app_configs)
+  File "/usr/local/lib/python2.7/dist-packages/django/core/checks/urls.py", line 16, in check_url_config
+    return check_resolver(resolver)
+  File "/usr/local/lib/python2.7/dist-packages/django/core/checks/urls.py", line 26, in check_resolver
+    return check_method()
+  File "/usr/local/lib/python2.7/dist-packages/django/urls/resolvers.py", line 254, in check
+    for pattern in self.url_patterns:
+  File "/usr/local/lib/python2.7/dist-packages/django/utils/functional.py", line 35, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/usr/local/lib/python2.7/dist-packages/django/urls/resolvers.py", line 405, in url_patterns
+    patterns = getattr(self.urlconf_module, "urlpatterns", self.urlconf_module)
+  File "/usr/local/lib/python2.7/dist-packages/django/utils/functional.py", line 35, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/usr/local/lib/python2.7/dist-packages/django/urls/resolvers.py", line 398, in urlconf_module
+    return import_module(self.urlconf_name)
+  File "/usr/lib/python2.7/importlib/__init__.py", line 37, in import_module
+    __import__(name)
+  File "/home/Qingchuan-Ma/mysite/mysite/urls.py", line 26, in <module>
+    url(r'^bootstrapdemo/', include('bootstrapdemo.urls')),
+  File "/usr/local/lib/python2.7/dist-packages/django/conf/urls/__init__.py", line 50, in include
+    urlconf_module = import_module(urlconf_module)
+  File "/usr/lib/python2.7/importlib/__init__.py", line 37, in import_module
+    __import__(name)
+  File "/home/Qingchuan-Ma/mysite/bootstrapdemo/urls.py", line 11
+    url(r'^$', DefaultFormView.as_view().name=index),
+SyntaxError: keyword can't be an expression
+Unhandled exception in thread started by <function wrapper at 0x7fb7d5e2a5f0>
+Performing system checks...
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/django/utils/autoreload.py", line 228, in wrapper
+    fn(*args, **kwargs)
+  File "/usr/local/lib/python2.7/dist-packages/django/core/management/commands/runserver.py", line 125, in inner_run
+    self.check(display_num_errors=True)
+  File "/usr/local/lib/python2.7/dist-packages/django/core/management/base.py", line 359, in check
+    include_deployment_checks=include_deployment_checks,
+  File "/usr/local/lib/python2.7/dist-packages/django/core/management/base.py", line 346, in _run_checks
+    return checks.run_checks(**kwargs)
+  File "/usr/local/lib/python2.7/dist-packages/django/core/checks/registry.py", line 81, in run_checks
+    new_errors = check(app_configs=app_configs)
+  File "/usr/local/lib/python2.7/dist-packages/django/core/checks/urls.py", line 16, in check_url_config
+    return check_resolver(resolver)
+  File "/usr/local/lib/python2.7/dist-packages/django/core/checks/urls.py", line 26, in check_resolver
+    return check_method()
+  File "/usr/local/lib/python2.7/dist-packages/django/urls/resolvers.py", line 254, in check
+    for pattern in self.url_patterns:
+  File "/usr/local/lib/python2.7/dist-packages/django/utils/functional.py", line 35, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/usr/local/lib/python2.7/dist-packages/django/urls/resolvers.py", line 405, in url_patterns
+    patterns = getattr(self.urlconf_module, "urlpatterns", self.urlconf_module)
+  File "/usr/local/lib/python2.7/dist-packages/django/utils/functional.py", line 35, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/usr/local/lib/python2.7/dist-packages/django/urls/resolvers.py", line 398, in urlconf_module
+    return import_module(self.urlconf_name)
+  File "/usr/lib/python2.7/importlib/__init__.py", line 37, in import_module
+    __import__(name)
+  File "/home/Qingchuan-Ma/mysite/mysite/urls.py", line 25, in <module>
+    url(r'^restdemo/', include('restdemo.urls')),
+  File "/usr/local/lib/python2.7/dist-packages/django/conf/urls/__init__.py", line 50, in include
+    urlconf_module = import_module(urlconf_module)
+  File "/usr/lib/python2.7/importlib/__init__.py", line 37, in import_module
+    __import__(name)
+  File "/home/Qingchuan-Ma/mysite/restdemo/urls.py", line 14, in <module>
+    url(r'^', include(router.urls),name=index),
+NameError: name 'index' is not defined
+Unhandled exception in thread started by <function wrapper at 0x7f6b72bca5f0>
+Performing system checks...
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/django/utils/autoreload.py", line 228, in wrapper
+    fn(*args, **kwargs)
+  File "/usr/local/lib/python2.7/dist-packages/django/core/management/commands/runserver.py", line 125, in inner_run
+    self.check(display_num_errors=True)
+  File "/usr/local/lib/python2.7/dist-packages/django/core/management/base.py", line 359, in check
+    include_deployment_checks=include_deployment_checks,
+  File "/usr/local/lib/python2.7/dist-packages/django/core/management/base.py", line 346, in _run_checks
+    return checks.run_checks(**kwargs)
+  File "/usr/local/lib/python2.7/dist-packages/django/core/checks/registry.py", line 81, in run_checks
+    new_errors = check(app_configs=app_configs)
+  File "/usr/local/lib/python2.7/dist-packages/django/core/checks/urls.py", line 16, in check_url_config
+    return check_resolver(resolver)
+  File "/usr/local/lib/python2.7/dist-packages/django/core/checks/urls.py", line 26, in check_resolver
+    return check_method()
+  File "/usr/local/lib/python2.7/dist-packages/django/urls/resolvers.py", line 254, in check
+    for pattern in self.url_patterns:
+  File "/usr/local/lib/python2.7/dist-packages/django/utils/functional.py", line 35, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/usr/local/lib/python2.7/dist-packages/django/urls/resolvers.py", line 405, in url_patterns
+    patterns = getattr(self.urlconf_module, "urlpatterns", self.urlconf_module)
+  File "/usr/local/lib/python2.7/dist-packages/django/utils/functional.py", line 35, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/usr/local/lib/python2.7/dist-packages/django/urls/resolvers.py", line 398, in urlconf_module
+    return import_module(self.urlconf_name)
+  File "/usr/lib/python2.7/importlib/__init__.py", line 37, in import_module
+    __import__(name)
+  File "/home/Qingchuan-Ma/mysite/mysite/urls.py", line 26, in <module>
+    url(r'^bootstrapdemo/', include('bootstrapdemo.urls')),
+  File "/usr/local/lib/python2.7/dist-packages/django/conf/urls/__init__.py", line 50, in include
+    urlconf_module = import_module(urlconf_module)
+  File "/usr/lib/python2.7/importlib/__init__.py", line 37, in import_module
+    __import__(name)
+  File "/home/Qingchuan-Ma/mysite/bootstrapdemo/urls.py", line 11
+    url(r'^$', DefaultFormView.as_view().name=index),
+SyntaxError: keyword can't be an expression
+Unhandled exception in thread started by <function wrapper at 0x7f5a7e9ab5f0>
+Performing system checks...
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/django/utils/autoreload.py", line 228, in wrapper
+    fn(*args, **kwargs)
+  File "/usr/local/lib/python2.7/dist-packages/django/core/management/commands/runserver.py", line 125, in inner_run
+    self.check(display_num_errors=True)
+  File "/usr/local/lib/python2.7/dist-packages/django/core/management/base.py", line 359, in check
+    include_deployment_checks=include_deployment_checks,
+  File "/usr/local/lib/python2.7/dist-packages/django/core/management/base.py", line 346, in _run_checks
+    return checks.run_checks(**kwargs)
+  File "/usr/local/lib/python2.7/dist-packages/django/core/checks/registry.py", line 81, in run_checks
+    new_errors = check(app_configs=app_configs)
+  File "/usr/local/lib/python2.7/dist-packages/django/core/checks/urls.py", line 16, in check_url_config
+    return check_resolver(resolver)
+  File "/usr/local/lib/python2.7/dist-packages/django/core/checks/urls.py", line 26, in check_resolver
+    return check_method()
+  File "/usr/local/lib/python2.7/dist-packages/django/urls/resolvers.py", line 254, in check
+    for pattern in self.url_patterns:
+  File "/usr/local/lib/python2.7/dist-packages/django/utils/functional.py", line 35, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/usr/local/lib/python2.7/dist-packages/django/urls/resolvers.py", line 405, in url_patterns
+    patterns = getattr(self.urlconf_module, "urlpatterns", self.urlconf_module)
+  File "/usr/local/lib/python2.7/dist-packages/django/utils/functional.py", line 35, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/usr/local/lib/python2.7/dist-packages/django/urls/resolvers.py", line 398, in urlconf_module
+    return import_module(self.urlconf_name)
+  File "/usr/lib/python2.7/importlib/__init__.py", line 37, in import_module
+    __import__(name)
+  File "/home/Qingchuan-Ma/mysite/mysite/urls.py", line 26, in <module>
+    url(r'^bootstrapdemo/', include('bootstrapdemo.urls')),
+  File "/usr/local/lib/python2.7/dist-packages/django/conf/urls/__init__.py", line 50, in include
+    urlconf_module = import_module(urlconf_module)
+  File "/usr/lib/python2.7/importlib/__init__.py", line 37, in import_module
+    __import__(name)
+  File "/home/Qingchuan-Ma/mysite/bootstrapdemo/urls.py", line 11, in <module>
+    url(r'^$', DefaultFormView.as_view(),name=index),
+NameError: name 'index' is not defined
+System check identified some issues:
+
+WARNINGS:
+?: (rest_framework.W001) You have specified a default PAGE_SIZE pagination rest_framework setting,without specifying also a DEFAULT_PAGINATION_CLASS.
+	HINT: The default for DEFAULT_PAGINATION_CLASS is None. In previous versions this was PageNumberPagination. If you wish to define PAGE_SIZE globally whilst defining pagination_class on a per-view basis you may silence this check.
+
+System check identified 1 issue (0 silenced).
+Invalid HTTP_HOST header: 'www.baidu.com'. You may need to add u'www.baidu.com' to ALLOWED_HOSTS.
+[06/Dec/2017 12:00:54] "GET /cache/global/img/gs.gif HTTP/1.0" 400 61016
+Invalid HTTP_HOST header: 'fortet'. You may need to add u'fortet' to ALLOWED_HOSTS.
+[06/Dec/2017 12:03:53] "GET / HTTP/1.0" 400 60228
+Invalid HTTP_HOST header: 'www.baidu.com'. You may need to add u'www.baidu.com' to ALLOWED_HOSTS.
+[06/Dec/2017 21:19:03] "GET /cache/global/img/gs.gif HTTP/1.0" 400 61019
+Invalid HTTP_HOST header: 'fortet'. You may need to add u'fortet' to ALLOWED_HOSTS.
+[07/Dec/2017 00:53:57] "GET / HTTP/1.0" 400 60229
+Invalid HTTP_HOST header: 'www.baidu.com'. You may need to add u'www.baidu.com' to ALLOWED_HOSTS.
+[07/Dec/2017 11:04:34] "GET /cache/global/img/gs.gif HTTP/1.0" 400 61016
+Invalid HTTP_HOST header: 'www.baidu.com'. You may need to add u'www.baidu.com' to ALLOWED_HOSTS.
+[08/Dec/2017 09:57:49] "GET /cache/global/img/gs.gif HTTP/1.0" 400 61016
+[08/Dec/2017 10:49:59] "GET / HTTP/1.0" 200 951
+[08/Dec/2017 10:49:59] "GET /static/polls/style.css HTTP/1.0" 200 112
+[08/Dec/2017 10:49:59] "GET /static/polls/images/background.gif HTTP/1.0" 404 1697
+Not Found: /favicon.ico
+[08/Dec/2017 10:49:59] "GET /favicon.ico HTTP/1.0" 404 2529
+[08/Dec/2017 10:50:01] "GET /bootstrapdemo/ HTTP/1.0" 200 9182
+[08/Dec/2017 10:50:07] "GET /questionare/ HTTP/1.0" 200 1094
+[08/Dec/2017 10:50:08] "GET /static/polls/images/background.gif HTTP/1.0" 404 1697
+[08/Dec/2017 10:50:09] "GET /polls/ HTTP/1.0" 200 563
+[08/Dec/2017 10:50:09] "GET /static/polls/images/background.gif HTTP/1.0" 404 1697
+[08/Dec/2017 14:02:22] "GET / HTTP/1.0" 200 951
+[08/Dec/2017 14:07:36] "GET / HTTP/1.0" 200 951
+Invalid HTTP_HOST header: 'fortet'. You may need to add u'fortet' to ALLOWED_HOSTS.
+[09/Dec/2017 05:08:12] "GET / HTTP/1.0" 400 60227
+Invalid HTTP_HOST header: 'www.baidu.com'. You may need to add u'www.baidu.com' to ALLOWED_HOSTS.
+[09/Dec/2017 08:34:35] "GET /cache/global/img/gs.gif HTTP/1.0" 400 61016
+Invalid HTTP_HOST header: 'www.baidu.com'. You may need to add u'www.baidu.com' to ALLOWED_HOSTS.
+[10/Dec/2017 03:10:36] "GET /cache/global/img/gs.gif HTTP/1.0" 400 61020
+Invalid HTTP_HOST header: 'www.baidu.com'. You may need to add u'www.baidu.com' to ALLOWED_HOSTS.
+[10/Dec/2017 07:34:44] "GET /cache/global/img/gs.gif HTTP/1.0" 400 61017
+[10/Dec/2017 14:53:20] "GET / HTTP/1.0" 200 951
+[10/Dec/2017 14:53:21] "GET /static/polls/style.css HTTP/1.0" 200 112
+Not Found: /favicon.ico
+[10/Dec/2017 14:53:22] "GET /favicon.ico HTTP/1.0" 404 2529
+Invalid HTTP_HOST header: 'fortet'. You may need to add u'fortet' to ALLOWED_HOSTS.
+[11/Dec/2017 03:03:26] "GET / HTTP/1.0" 400 60227
+Invalid HTTP_HOST header: 'www.baidu.com'. You may need to add u'www.baidu.com' to ALLOWED_HOSTS.
+[11/Dec/2017 06:33:02] "GET /cache/global/img/gs.gif HTTP/1.0" 400 61017
+Invalid HTTP_HOST header: 'www.baidu.com'. You may need to add u'www.baidu.com' to ALLOWED_HOSTS.
+[12/Dec/2017 05:20:26] "GET /cache/global/img/gs.gif HTTP/1.0" 400 61017
+Invalid HTTP_HOST header: 'fortet'. You may need to add u'fortet' to ALLOWED_HOSTS.
+[12/Dec/2017 13:03:12] "GET / HTTP/1.0" 400 60230
+Invalid HTTP_HOST header: 'www.baidu.com'. You may need to add u'www.baidu.com' to ALLOWED_HOSTS.
+[13/Dec/2017 04:15:38] "GET /cache/global/img/gs.gif HTTP/1.0" 400 61017
+Invalid HTTP_HOST header: 'www.baidu.com'. You may need to add u'www.baidu.com' to ALLOWED_HOSTS.
+[13/Dec/2017 09:08:52] "GET /cache/global/img/gs.gif HTTP/1.0" 400 61020
+Invalid HTTP_HOST header: 'www.baidu.com'. You may need to add u'www.baidu.com' to ALLOWED_HOSTS.
+[14/Dec/2017 03:20:05] "GET /cache/global/img/gs.gif HTTP/1.0" 400 61017
+[14/Dec/2017 07:13:25] "GET / HTTP/1.0" 200 951
+Invalid HTTP_HOST header: 'fortet'. You may need to add u'fortet' to ALLOWED_HOSTS.
+[14/Dec/2017 10:35:42] "GET / HTTP/1.0" 400 60228
+[14/Dec/2017 10:44:32] "GET / HTTP/1.0" 200 951
+Invalid HTTP_HOST header: 'www.baidu.com'. You may need to add u'www.baidu.com' to ALLOWED_HOSTS.
+[15/Dec/2017 02:25:33] "GET /cache/global/img/gs.gif HTTP/1.0" 400 61017
+[15/Dec/2017 20:35:54] "GET / HTTP/1.0" 200 951
+Invalid HTTP_HOST header: 'www.baidu.com'. You may need to add u'www.baidu.com' to ALLOWED_HOSTS.
+[16/Dec/2017 01:37:08] "GET /cache/global/img/gs.gif HTTP/1.0" 400 61017
+Invalid HTTP_HOST header: 'fortet'. You may need to add u'fortet' to ALLOWED_HOSTS.
+[16/Dec/2017 08:54:39] "GET / HTTP/1.0" 400 60229
+Invalid HTTP_HOST header: 'www.baidu.com'. You may need to add u'www.baidu.com' to ALLOWED_HOSTS.
+[16/Dec/2017 14:27:36] "GET /cache/global/img/gs.gif HTTP/1.0" 400 61020
+Invalid HTTP_HOST header: 'www.baidu.com'. You may need to add u'www.baidu.com' to ALLOWED_HOSTS.
+[17/Dec/2017 00:33:34] "GET /cache/global/img/gs.gif HTTP/1.0" 400 61017
+Invalid HTTP_HOST header: 'fortet'. You may need to add u'fortet' to ALLOWED_HOSTS.
+[17/Dec/2017 15:39:11] "GET / HTTP/1.0" 400 60229
+[17/Dec/2017 17:46:06] "GET / HTTP/1.0" 200 951
+Not Found: /index.action
+[17/Dec/2017 17:46:06] "GET /index.action HTTP/1.0" 404 2532
+Invalid HTTP_HOST header: 'www.baidu.com'. You may need to add u'www.baidu.com' to ALLOWED_HOSTS.
+[17/Dec/2017 23:58:38] "GET /cache/global/img/gs.gif HTTP/1.0" 400 61017
+Invalid HTTP_HOST header: 'fortet'. You may need to add u'fortet' to ALLOWED_HOSTS.
+[18/Dec/2017 11:41:24] "GET / HTTP/1.0" 400 60229
+[18/Dec/2017 20:21:37] "GET / HTTP/1.0" 200 951
+Invalid HTTP_HOST header: 'www.baidu.com'. You may need to add u'www.baidu.com' to ALLOWED_HOSTS.
+[18/Dec/2017 23:24:03] "GET /cache/global/img/gs.gif HTTP/1.0" 400 61017
+Invalid HTTP_HOST header: 'www.baidu.com'. You may need to add u'www.baidu.com' to ALLOWED_HOSTS.
+[19/Dec/2017 21:33:10] "GET /cache/global/img/gs.gif HTTP/1.0" 400 61020
+Invalid HTTP_HOST header: 'www.baidu.com'. You may need to add u'www.baidu.com' to ALLOWED_HOSTS.
+[19/Dec/2017 22:49:32] "GET /cache/global/img/gs.gif HTTP/1.0" 400 61017
+Invalid HTTP_HOST header: 'fortet'. You may need to add u'fortet' to ALLOWED_HOSTS.
+[20/Dec/2017 12:18:08] "GET / HTTP/1.0" 400 60230
+[20/Dec/2017 17:18:59] "GET / HTTP/1.0" 200 951
+Invalid HTTP_HOST header: 'www.baidu.com'. You may need to add u'www.baidu.com' to ALLOWED_HOSTS.
+[20/Dec/2017 21:56:41] "GET /cache/global/img/gs.gif HTTP/1.0" 400 61017
+Invalid HTTP_HOST header: 'fortet'. You may need to add u'fortet' to ALLOWED_HOSTS.
+[21/Dec/2017 02:08:23] "GET / HTTP/1.0" 400 60230
+Invalid HTTP_HOST header: 'fortet'. You may need to add u'fortet' to ALLOWED_HOSTS.
+[21/Dec/2017 11:04:53] "GET / HTTP/1.0" 400 60230
+Invalid HTTP_HOST header: 'www.baidu.com'. You may need to add u'www.baidu.com' to ALLOWED_HOSTS.
+[21/Dec/2017 20:55:44] "GET /cache/global/img/gs.gif HTTP/1.0" 400 61017
+Invalid HTTP_HOST header: 'fortet'. You may need to add u'fortet' to ALLOWED_HOSTS.
+[22/Dec/2017 07:24:22] "GET / HTTP/1.0" 400 60231
+Invalid HTTP_HOST header: 'fortet'. You may need to add u'fortet' to ALLOWED_HOSTS.
+[22/Dec/2017 12:11:12] "GET / HTTP/1.0" 400 60229
+Invalid HTTP_HOST header: 'www.baidu.com'. You may need to add u'www.baidu.com' to ALLOWED_HOSTS.
+[22/Dec/2017 20:02:39] "GET /cache/global/img/gs.gif HTTP/1.0" 400 61017
+Invalid HTTP_HOST header: 'fortet'. You may need to add u'fortet' to ALLOWED_HOSTS.
+[22/Dec/2017 22:49:38] "GET / HTTP/1.0" 400 60231
+Invalid HTTP_HOST header: 'fortet'. You may need to add u'fortet' to ALLOWED_HOSTS.
+[23/Dec/2017 00:38:21] "GET / HTTP/1.0" 400 60229
+Invalid HTTP_HOST header: 'www.baidu.com'. You may need to add u'www.baidu.com' to ALLOWED_HOSTS.
+[23/Dec/2017 03:46:03] "GET /cache/global/img/gs.gif HTTP/1.0" 400 61020
+Invalid HTTP_HOST header: 'fortet'. You may need to add u'fortet' to ALLOWED_HOSTS.
+[23/Dec/2017 15:53:06] "GET / HTTP/1.0" 400 60228
+Invalid HTTP_HOST header: 'www.baidu.com'. You may need to add u'www.baidu.com' to ALLOWED_HOSTS.
+[23/Dec/2017 19:04:21] "GET /cache/global/img/gs.gif HTTP/1.0" 400 61017
+Invalid HTTP_HOST header: 'fortet'. You may need to add u'fortet' to ALLOWED_HOSTS.
+[23/Dec/2017 22:54:42] "GET / HTTP/1.0" 400 60229
+Invalid HTTP_HOST header: 'fortet'. You may need to add u'fortet' to ALLOWED_HOSTS.
+[24/Dec/2017 09:35:33] "GET / HTTP/1.0" 400 60231
+Invalid HTTP_HOST header: 'www.baidu.com'. You may need to add u'www.baidu.com' to ALLOWED_HOSTS.
+[24/Dec/2017 18:31:50] "GET /cache/global/img/gs.gif HTTP/1.0" 400 61017
+Invalid HTTP_HOST header: 'fortet'. You may need to add u'fortet' to ALLOWED_HOSTS.
+[25/Dec/2017 05:30:41] "GET / HTTP/1.0" 400 60229
+Invalid HTTP_HOST header: 'fortet'. You may need to add u'fortet' to ALLOWED_HOSTS.
+[25/Dec/2017 05:31:48] "GET / HTTP/1.0" 400 60229
+Invalid HTTP_HOST header: 'fortet'. You may need to add u'fortet' to ALLOWED_HOSTS.
+[25/Dec/2017 09:11:43] "GET / HTTP/1.0" 400 60229
+Invalid HTTP_HOST header: 'fortet'. You may need to add u'fortet' to ALLOWED_HOSTS.
+[25/Dec/2017 11:38:43] "GET / HTTP/1.0" 400 60229
+Invalid HTTP_HOST header: 'www.baidu.com'. You may need to add u'www.baidu.com' to ALLOWED_HOSTS.
+[25/Dec/2017 18:03:03] "GET /cache/global/img/gs.gif HTTP/1.0" 400 61017
+Invalid HTTP_HOST header: 'www.baidu.com'. You may need to add u'www.baidu.com' to ALLOWED_HOSTS.
+[26/Dec/2017 09:15:53] "GET /cache/global/img/gs.gif HTTP/1.0" 400 61020
+Invalid HTTP_HOST header: 'www.baidu.com'. You may need to add u'www.baidu.com' to ALLOWED_HOSTS.
+[26/Dec/2017 17:42:27] "GET /cache/global/img/gs.gif HTTP/1.0" 400 61017
+Invalid HTTP_HOST header: 'fortet'. You may need to add u'fortet' to ALLOWED_HOSTS.
+[26/Dec/2017 19:03:49] "GET / HTTP/1.0" 400 60230
+Invalid HTTP_HOST header: 'www.baidu.com'. You may need to add u'www.baidu.com' to ALLOWED_HOSTS.
+[27/Dec/2017 17:25:04] "GET /cache/global/img/gs.gif HTTP/1.0" 400 61017
+Invalid HTTP_HOST header: 'www.baidu.com'. You may need to add u'www.baidu.com' to ALLOWED_HOSTS.
+[27/Dec/2017 17:25:14] "GET /cache/global/img/gs.gif HTTP/1.0" 400 61017
+Invalid HTTP_HOST header: 'fortet'. You may need to add u'fortet' to ALLOWED_HOSTS.
+[27/Dec/2017 22:29:53] "GET / HTTP/1.0" 400 60230
+Invalid HTTP_HOST header: 'www.baidu.com'. You may need to add u'www.baidu.com' to ALLOWED_HOSTS.
+[28/Dec/2017 16:55:50] "GET /cache/global/img/gs.gif HTTP/1.0" 400 61017
+Invalid HTTP_HOST header: 'fortet'. You may need to add u'fortet' to ALLOWED_HOSTS.
+[28/Dec/2017 21:45:05] "GET / HTTP/1.0" 400 60231
+Invalid HTTP_HOST header: 'www.baidu.com'. You may need to add u'www.baidu.com' to ALLOWED_HOSTS.
+[29/Dec/2017 15:32:08] "GET /cache/global/img/gs.gif HTTP/1.0" 400 61020
+Invalid HTTP_HOST header: 'www.baidu.com'. You may need to add u'www.baidu.com' to ALLOWED_HOSTS.
+[29/Dec/2017 16:17:42] "GET /cache/global/img/gs.gif HTTP/1.0" 400 61017
+Invalid HTTP_HOST header: 'fortet'. You may need to add u'fortet' to ALLOWED_HOSTS.
+[30/Dec/2017 13:05:55] "GET / HTTP/1.0" 400 60229
+Invalid HTTP_HOST header: 'www.baidu.com'. You may need to add u'www.baidu.com' to ALLOWED_HOSTS.
+[31/Dec/2017 15:12:49] "GET /cache/global/img/gs.gif HTTP/1.0" 400 61017
+Invalid HTTP_HOST header: 'fortet'. You may need to add u'fortet' to ALLOWED_HOSTS.
+[31/Dec/2017 22:54:39] "GET / HTTP/1.0" 400 60229
+[01/Jan/2018 05:50:11] "GET / HTTP/1.0" 200 951
+Invalid HTTP_HOST header: 'fortet'. You may need to add u'fortet' to ALLOWED_HOSTS.
+[01/Jan/2018 22:39:08] "GET / HTTP/1.0" 400 60227
+Invalid HTTP_HOST header: 'www.baidu.com'. You may need to add u'www.baidu.com' to ALLOWED_HOSTS.
+[01/Jan/2018 22:39:29] "GET /cache/global/img/gs.gif HTTP/1.0" 400 61019
+Invalid HTTP_HOST header: 'www.baidu.com'. You may need to add u'www.baidu.com' to ALLOWED_HOSTS.
+[03/Jan/2018 12:34:22] "GET /cache/global/img/gs.gif HTTP/1.0" 400 61016
+Invalid HTTP_HOST header: 'fortet'. You may need to add u'fortet' to ALLOWED_HOSTS.
+[03/Jan/2018 22:24:47] "GET / HTTP/1.0" 400 60228
+Invalid HTTP_HOST header: 'www.baidu.com'. You may need to add u'www.baidu.com' to ALLOWED_HOSTS.
+[04/Jan/2018 10:38:53] "GET /cache/global/img/gs.gif HTTP/1.0" 400 61016
+Invalid HTTP_HOST header: 'www.baidu.com'. You may need to add u'www.baidu.com' to ALLOWED_HOSTS.
+[04/Jan/2018 17:33:26] "GET / HTTP/1.0" 400 60938
+Invalid HTTP_HOST header: 'www.123cha.com'. You may need to add u'www.123cha.com' to ALLOWED_HOSTS.
+[04/Jan/2018 17:33:26] "GET / HTTP/1.0" 400 60950
+Invalid HTTP_HOST header: 'www.bing.com'. You may need to add u'www.bing.com' to ALLOWED_HOSTS.
+[04/Jan/2018 17:33:27] "GET / HTTP/1.0" 400 60921
+Invalid HTTP_HOST header: 'www.minghui.org'. You may need to add u'www.minghui.org' to ALLOWED_HOSTS.
+[04/Jan/2018 17:33:38] "GET / HTTP/1.0" 400 60969
+Invalid HTTP_HOST header: 'fortet'. You may need to add u'fortet' to ALLOWED_HOSTS.
+[04/Jan/2018 17:33:44] "CONNECT / HTTP/1.0" 400 60259
+Invalid HTTP_HOST header: 'www.baidu.com'. You may need to add u'www.baidu.com' to ALLOWED_HOSTS.
+[05/Jan/2018 03:51:51] "GET /cache/global/img/gs.gif HTTP/1.0" 400 61019
+Invalid HTTP_HOST header: 'www.baidu.com'. You may need to add u'www.baidu.com' to ALLOWED_HOSTS.
+[05/Jan/2018 09:24:56] "GET /cache/global/img/gs.gif HTTP/1.0" 400 61016
+Invalid HTTP_HOST header: 'fortet'. You may need to add u'fortet' to ALLOWED_HOSTS.
+[06/Jan/2018 00:27:49] "GET / HTTP/1.0" 400 60227
+Invalid HTTP_HOST header: 'fortet'. You may need to add u'fortet' to ALLOWED_HOSTS.
+[06/Jan/2018 02:28:43] "GET / HTTP/1.0" 400 60228
+Invalid HTTP_HOST header: 'fortet'. You may need to add u'fortet' to ALLOWED_HOSTS.
+[06/Jan/2018 02:28:44] "OPTIONS / HTTP/1.0" 400 60256
+Invalid HTTP_HOST header: 'fortet'. You may need to add u'fortet' to ALLOWED_HOSTS.
+[06/Jan/2018 02:48:20] "POST / HTTP/1.0" 400 60368
+Invalid HTTP_HOST header: 'www.baidu.com'. You may need to add u'www.baidu.com' to ALLOWED_HOSTS.
+[06/Jan/2018 07:55:45] "GET /cache/global/img/gs.gif HTTP/1.0" 400 61016
+Invalid HTTP_HOST header: 'fortet'. You may need to add u'fortet' to ALLOWED_HOSTS.
+[06/Jan/2018 14:09:15] "POST / HTTP/1.0" 400 60368
+[06/Jan/2018 19:13:22] "GET / HTTP/1.0" 200 951
+Invalid HTTP_HOST header: 'www.baidu.com'. You may need to add u'www.baidu.com' to ALLOWED_HOSTS.
+[07/Jan/2018 06:46:30] "GET /cache/global/img/gs.gif HTTP/1.0" 400 61016
+Invalid HTTP_HOST header: 'fortet'. You may need to add u'fortet' to ALLOWED_HOSTS.
+[08/Jan/2018 03:20:07] "GET / HTTP/1.0" 400 60228
+Invalid HTTP_HOST header: 'www.baidu.com'. You may need to add u'www.baidu.com' to ALLOWED_HOSTS.
+[08/Jan/2018 09:56:19] "GET /cache/global/img/gs.gif HTTP/1.0" 400 61019
+Invalid HTTP_HOST header: 'www.baidu.com'. You may need to add u'www.baidu.com' to ALLOWED_HOSTS.
+[09/Jan/2018 04:36:47] "GET /cache/global/img/gs.gif HTTP/1.0" 400 61016
+Invalid HTTP_HOST header: 'fortet'. You may need to add u'fortet' to ALLOWED_HOSTS.
+[09/Jan/2018 20:22:00] "GET / HTTP/1.0" 400 60228
+Invalid HTTP_HOST header: 'fortet'. You may need to add u'fortet' to ALLOWED_HOSTS.
+[09/Jan/2018 23:56:24] "GET / HTTP/1.0" 400 60361
+Invalid HTTP_HOST header: 'fortet'. You may need to add u'fortet' to ALLOWED_HOSTS.
+[09/Jan/2018 23:56:25] "OPTIONS / HTTP/1.0" 400 60257
+Invalid HTTP_HOST header: 'fortet'. You may need to add u'fortet' to ALLOWED_HOSTS.
+[09/Jan/2018 23:59:08] "GET / HTTP/1.0" 400 60229
+Invalid HTTP_HOST header: 'www.baidu.com'. You may need to add u'www.baidu.com' to ALLOWED_HOSTS.
+[10/Jan/2018 03:31:19] "GET /cache/global/img/gs.gif HTTP/1.0" 400 61017
+Invalid HTTP_HOST header: 'www.baidu.com'. You may need to add u'www.baidu.com' to ALLOWED_HOSTS.
+[11/Jan/2018 02:22:08] "GET /cache/global/img/gs.gif HTTP/1.0" 400 61017
+Invalid HTTP_HOST header: 'www.baidu.com'. You may need to add u'www.baidu.com' to ALLOWED_HOSTS.
+[11/Jan/2018 15:13:23] "GET /cache/global/img/gs.gif HTTP/1.0" 400 61020
+Invalid HTTP_HOST header: 'www.baidu.com'. You may need to add u'www.baidu.com' to ALLOWED_HOSTS.
+[12/Jan/2018 01:15:52] "GET /cache/global/img/gs.gif HTTP/1.0" 400 61017
+Invalid HTTP_HOST header: 'www.baidu.com'. You may need to add u'www.baidu.com' to ALLOWED_HOSTS.
+[12/Jan/2018 23:59:22] "GET /cache/global/img/gs.gif HTTP/1.0" 400 61017
+Invalid HTTP_HOST header: 'www.baidu.com'. You may need to add u'www.baidu.com' to ALLOWED_HOSTS.
+[13/Jan/2018 22:28:32] "GET /cache/global/img/gs.gif HTTP/1.0" 400 61017
+Invalid HTTP_HOST header: 'fortet'. You may need to add u'fortet' to ALLOWED_HOSTS.
+[14/Jan/2018 04:42:49] "GET / HTTP/1.0" 400 60229
+[14/Jan/2018 09:53:55] "GET / HTTP/1.0" 200 951
+Invalid HTTP_HOST header: 'www.baidu.com'. You may need to add u'www.baidu.com' to ALLOWED_HOSTS.
+[14/Jan/2018 21:10:29] "GET /cache/global/img/gs.gif HTTP/1.0" 400 61017
+Invalid HTTP_HOST header: 'www.baidu.com'. You may need to add u'www.baidu.com' to ALLOWED_HOSTS.
+[14/Jan/2018 22:11:40] "GET /cache/global/img/gs.gif HTTP/1.0" 400 61020
+Invalid HTTP_HOST header: 'www.baidu.com'. You may need to add u'www.baidu.com' to ALLOWED_HOSTS.
+[15/Jan/2018 20:04:16] "GET /cache/global/img/gs.gif HTTP/1.0" 400 61017
+Invalid HTTP_HOST header: 'fortet'. You may need to add u'fortet' to ALLOWED_HOSTS.
+[16/Jan/2018 01:27:11] "GET / HTTP/1.0" 400 60229
+Invalid HTTP_HOST header: 'www.baidu.com'. You may need to add u'www.baidu.com' to ALLOWED_HOSTS.
+[16/Jan/2018 19:13:29] "GET /cache/global/img/gs.gif HTTP/1.0" 400 61017
+Invalid HTTP_HOST header: 'www.baidu.com'. You may need to add u'www.baidu.com' to ALLOWED_HOSTS.
+[17/Jan/2018 17:55:26] "GET /cache/global/img/gs.gif HTTP/1.0" 400 61017
+Invalid HTTP_HOST header: 'fortet'. You may need to add u'fortet' to ALLOWED_HOSTS.
+[18/Jan/2018 01:19:36] "GET / HTTP/1.0" 400 60228
+Invalid HTTP_HOST header: 'www.baidu.com'. You may need to add u'www.baidu.com' to ALLOWED_HOSTS.
+[18/Jan/2018 08:20:07] "GET /cache/global/img/gs.gif HTTP/1.0" 400 61020
+Invalid HTTP_HOST header: 'www.baidu.com'. You may need to add u'www.baidu.com' to ALLOWED_HOSTS.
+[18/Jan/2018 08:20:08] "GET /cache/global/img/gs.gif HTTP/1.0" 400 61020
+Invalid HTTP_HOST header: 'www.baidu.com'. You may need to add u'www.baidu.com' to ALLOWED_HOSTS.
+[18/Jan/2018 16:42:27] "GET /cache/global/img/gs.gif HTTP/1.0" 400 61017
+Invalid HTTP_HOST header: 'www.baidu.com'. You may need to add u'www.baidu.com' to ALLOWED_HOSTS.
+[19/Jan/2018 15:20:38] "GET /cache/global/img/gs.gif HTTP/1.0" 400 61017
+Invalid HTTP_HOST header: 'fortet'. You may need to add u'fortet' to ALLOWED_HOSTS.
+[19/Jan/2018 19:42:19] "GET / HTTP/1.0" 400 60229
+Invalid HTTP_HOST header: 'www.baidu.com'. You may need to add u'www.baidu.com' to ALLOWED_HOSTS.
+[20/Jan/2018 14:05:29] "GET /cache/global/img/gs.gif HTTP/1.0" 400 61017
+[20/Jan/2018 22:29:26] "GET / HTTP/1.0" 200 951
+Invalid HTTP_HOST header: 'www.baidu.com'. You may need to add u'www.baidu.com' to ALLOWED_HOSTS.
+[21/Jan/2018 12:52:45] "GET /cache/global/img/gs.gif HTTP/1.0" 400 61017
+Invalid HTTP_HOST header: 'www.baidu.com'. You may need to add u'www.baidu.com' to ALLOWED_HOSTS.
+[21/Jan/2018 14:17:14] "GET /cache/global/img/gs.gif HTTP/1.0" 400 61020
+Invalid HTTP_HOST header: 'fortet'. You may need to add u'fortet' to ALLOWED_HOSTS.
+[22/Jan/2018 01:06:29] "GET / HTTP/1.0" 400 60231
+Invalid HTTP_HOST header: 'www.baidu.com'. You may need to add u'www.baidu.com' to ALLOWED_HOSTS.
+[22/Jan/2018 11:47:30] "GET /cache/global/img/gs.gif HTTP/1.0" 400 61017
+Invalid HTTP_HOST header: 'www.baidu.com'. You may need to add u'www.baidu.com' to ALLOWED_HOSTS.
+[23/Jan/2018 10:45:48] "GET /cache/global/img/gs.gif HTTP/1.0" 400 61017
+Not Found: /wls-wsat/CoordinatorPortType11
+[23/Jan/2018 14:54:06] "GET /wls-wsat/CoordinatorPortType11 HTTP/1.0" 404 2586
+Invalid HTTP_HOST header: 'fortet'. You may need to add u'fortet' to ALLOWED_HOSTS.
+[24/Jan/2018 01:46:43] "GET / HTTP/1.0" 400 60229
+Invalid HTTP_HOST header: 'www.baidu.com'. You may need to add u'www.baidu.com' to ALLOWED_HOSTS.
+[24/Jan/2018 09:39:54] "GET /cache/global/img/gs.gif HTTP/1.0" 400 61017
+Invalid HTTP_HOST header: 'www.baidu.com'. You may need to add u'www.baidu.com' to ALLOWED_HOSTS.
+[24/Jan/2018 20:17:24] "GET /cache/global/img/gs.gif HTTP/1.0" 400 61020
+Invalid HTTP_HOST header: 'www.baidu.com'. You may need to add u'www.baidu.com' to ALLOWED_HOSTS.
+[25/Jan/2018 08:26:33] "GET /cache/global/img/gs.gif HTTP/1.0" 400 61017
+Not Found: /manager/html
+[25/Jan/2018 10:46:32] "GET /manager/html HTTP/1.0" 404 2532
+Invalid HTTP_HOST header: 'fortet'. You may need to add u'fortet' to ALLOWED_HOSTS.
+[25/Jan/2018 23:52:35] "GET / HTTP/1.0" 400 60229
+Invalid HTTP_HOST header: 'www.baidu.com'. You may need to add u'www.baidu.com' to ALLOWED_HOSTS.
+[26/Jan/2018 07:13:03] "GET /cache/global/img/gs.gif HTTP/1.0" 400 61017
+Not Found: /manager/html
+[27/Jan/2018 04:23:02] "GET /manager/html HTTP/1.0" 404 2532
+Invalid HTTP_HOST header: 'www.baidu.com'. You may need to add u'www.baidu.com' to ALLOWED_HOSTS.
+[27/Jan/2018 06:08:46] "GET /cache/global/img/gs.gif HTTP/1.0" 400 61017
+Invalid HTTP_HOST header: 'fortet'. You may need to add u'fortet' to ALLOWED_HOSTS.
+[27/Jan/2018 20:38:09] "GET / HTTP/1.0" 400 60229
+Invalid HTTP_HOST header: 'www.baidu.com'. You may need to add u'www.baidu.com' to ALLOWED_HOSTS.
+[28/Jan/2018 02:16:19] "GET /cache/global/img/gs.gif HTTP/1.0" 400 61020
+Invalid HTTP_HOST header: 'www.baidu.com'. You may need to add u'www.baidu.com' to ALLOWED_HOSTS.
+[28/Jan/2018 04:56:37] "GET /cache/global/img/gs.gif HTTP/1.0" 400 61017
+Invalid HTTP_HOST header: 'www.baidu.com'. You may need to add u'www.baidu.com' to ALLOWED_HOSTS.
+[29/Jan/2018 03:49:15] "GET /cache/global/img/gs.gif HTTP/1.0" 400 61017
+Not Found: /manager/html
+[29/Jan/2018 14:14:03] "GET /manager/html HTTP/1.0" 404 2532
+[29/Jan/2018 19:54:23] "GET / HTTP/1.0" 200 951
+Invalid HTTP_HOST header: 'fortet'. You may need to add u'fortet' to ALLOWED_HOSTS.
+[29/Jan/2018 21:58:09] "GET / HTTP/1.0" 400 60229
+Invalid HTTP_HOST header: 'www.baidu.com'. You may need to add u'www.baidu.com' to ALLOWED_HOSTS.
+[30/Jan/2018 02:46:30] "GET /cache/global/img/gs.gif HTTP/1.0" 400 61017
+Invalid HTTP_HOST header: 'www.baidu.com'. You may need to add u'www.baidu.com' to ALLOWED_HOSTS.
+[31/Jan/2018 01:47:47] "GET /cache/global/img/gs.gif HTTP/1.0" 400 61017
+Invalid HTTP_HOST header: 'www.baidu.com'. You may need to add u'www.baidu.com' to ALLOWED_HOSTS.
+[31/Jan/2018 08:18:45] "GET /cache/global/img/gs.gif HTTP/1.0" 400 61020
+Invalid HTTP_HOST header: 'www.baidu.com'. You may need to add u'www.baidu.com' to ALLOWED_HOSTS.
+[01/Feb/2018 01:10:09] "GET /cache/global/img/gs.gif HTTP/1.0" 400 61016
+Invalid HTTP_HOST header: 'fortet'. You may need to add u'fortet' to ALLOWED_HOSTS.
+[01/Feb/2018 01:27:11] "GET / HTTP/1.0" 400 60230
+Invalid HTTP_HOST header: 'fortet'. You may need to add u'fortet' to ALLOWED_HOSTS.
+[01/Feb/2018 19:57:19] "GET / HTTP/1.0" 400 60228
+Invalid HTTP_HOST header: 'www.baidu.com'. You may need to add u'www.baidu.com' to ALLOWED_HOSTS.
+[01/Feb/2018 23:50:38] "GET /cache/global/img/gs.gif HTTP/1.0" 400 61016
+Not Found: /manager/html
+[02/Feb/2018 13:32:11] "GET /manager/html HTTP/1.0" 404 2532
+Invalid HTTP_HOST header: 'www.baidu.com'. You may need to add u'www.baidu.com' to ALLOWED_HOSTS.
+[02/Feb/2018 22:14:30] "GET /cache/global/img/gs.gif HTTP/1.0" 400 61016
+Invalid HTTP_HOST header: 'www.baidu.com'. You may need to add u'www.baidu.com' to ALLOWED_HOSTS.
+[03/Feb/2018 13:16:40] "GET /cache/global/img/gs.gif HTTP/1.0" 400 61019
+Invalid HTTP_HOST header: 'www.baidu.com'. You may need to add u'www.baidu.com' to ALLOWED_HOSTS.
+[03/Feb/2018 20:45:19] "GET /cache/global/img/gs.gif HTTP/1.0" 400 61016
+Invalid HTTP_HOST header: 'fortet'. You may need to add u'fortet' to ALLOWED_HOSTS.
+[03/Feb/2018 22:06:26] "GET / HTTP/1.0" 400 60227
+Invalid HTTP_HOST header: 'www.baidu.com'. You may need to add u'www.baidu.com' to ALLOWED_HOSTS.
+[04/Feb/2018 19:03:34] "GET /cache/global/img/gs.gif HTTP/1.0" 400 61016
+Invalid HTTP_HOST header: 'www.baidu.com'. You may need to add u'www.baidu.com' to ALLOWED_HOSTS.
+[05/Feb/2018 17:26:24] "GET /cache/global/img/gs.gif HTTP/1.0" 400 61016
+Invalid HTTP_HOST header: 'fortet'. You may need to add u'fortet' to ALLOWED_HOSTS.
+[06/Feb/2018 03:26:01] "GET / HTTP/1.0" 400 60228
+Invalid HTTP_HOST header: 'www.baidu.com'. You may need to add u'www.baidu.com' to ALLOWED_HOSTS.
+[06/Feb/2018 15:51:43] "GET /cache/global/img/gs.gif HTTP/1.0" 400 61016
+Invalid HTTP_HOST header: 'www.baidu.com'. You may need to add u'www.baidu.com' to ALLOWED_HOSTS.
+[06/Feb/2018 18:54:08] "GET /cache/global/img/gs.gif HTTP/1.0" 400 61019
+Invalid HTTP_HOST header: 'www.baidu.com'. You may need to add u'www.baidu.com' to ALLOWED_HOSTS.
+[07/Feb/2018 14:32:06] "GET /cache/global/img/gs.gif HTTP/1.0" 400 61016
+Invalid HTTP_HOST header: 'fortet'. You may need to add u'fortet' to ALLOWED_HOSTS.
+[08/Feb/2018 00:33:43] "GET / HTTP/1.0" 400 60230
+Invalid HTTP_HOST header: 'www.baidu.com'. You may need to add u'www.baidu.com' to ALLOWED_HOSTS.
+[08/Feb/2018 13:13:04] "GET /cache/global/img/gs.gif HTTP/1.0" 400 61016
+Not Found: /manager/html
+[09/Feb/2018 06:30:11] "GET /manager/html HTTP/1.0" 404 2532
+Invalid HTTP_HOST header: 'www.baidu.com'. You may need to add u'www.baidu.com' to ALLOWED_HOSTS.
+[09/Feb/2018 11:51:54] "GET /cache/global/img/gs.gif HTTP/1.0" 400 61016
+Invalid HTTP_HOST header: 'fortet'. You may need to add u'fortet' to ALLOWED_HOSTS.
+[09/Feb/2018 21:56:40] "GET / HTTP/1.0" 400 60227
+Invalid HTTP_HOST header: 'www.baidu.com'. You may need to add u'www.baidu.com' to ALLOWED_HOSTS.
+[10/Feb/2018 00:32:10] "GET /cache/global/img/gs.gif HTTP/1.0" 400 61020
+[10/Feb/2018 04:39:50] "GET / HTTP/1.0" 200 951
+Invalid HTTP_HOST header: 'www.baidu.com'. You may need to add u'www.baidu.com' to ALLOWED_HOSTS.
+[10/Feb/2018 09:46:31] "GET /cache/global/img/gs.gif HTTP/1.0" 400 61017
+Invalid HTTP_HOST header: 'fortet'. You may need to add u'fortet' to ALLOWED_HOSTS.
+[10/Feb/2018 10:08:21] "GET / HTTP/1.0" 400 60231
+Invalid HTTP_HOST header: 'fortet'. You may need to add u'fortet' to ALLOWED_HOSTS.
+[10/Feb/2018 10:08:22] "OPTIONS / HTTP/1.0" 400 60259
+Not Found: /manager/html
+[10/Feb/2018 13:22:10] "GET /manager/html HTTP/1.0" 404 2532
+[11/Feb/2018 02:10:16] "GET / HTTP/1.0" 200 951
+Invalid HTTP_HOST header: 'www.baidu.com'. You may need to add u'www.baidu.com' to ALLOWED_HOSTS.
+[11/Feb/2018 07:52:48] "GET /cache/global/img/gs.gif HTTP/1.0" 400 61017
+Not Found: /v2
+[11/Feb/2018 13:54:30] "GET /v2 HTTP/1.0" 404 2502
+Invalid HTTP_HOST header: 'fortet'. You may need to add u'fortet' to ALLOWED_HOSTS.
+[12/Feb/2018 02:06:26] "GET / HTTP/1.0" 400 60228
+Invalid HTTP_HOST header: 'www.baidu.com'. You may need to add u'www.baidu.com' to ALLOWED_HOSTS.
+[12/Feb/2018 06:09:47] "GET /cache/global/img/gs.gif HTTP/1.0" 400 61017
+Invalid HTTP_HOST header: 'www.baidu.com'. You may need to add u'www.baidu.com' to ALLOWED_HOSTS.
+[13/Feb/2018 04:41:25] "GET /cache/global/img/gs.gif HTTP/1.0" 400 61017
+Invalid HTTP_HOST header: 'www.baidu.com'. You may need to add u'www.baidu.com' to ALLOWED_HOSTS.
+[13/Feb/2018 06:06:59] "GET /cache/global/img/gs.gif HTTP/1.0" 400 61020
+[13/Feb/2018 11:31:58] "GET / HTTP/1.0" 200 951
+Invalid HTTP_HOST header: 'www.baidu.com'. You may need to add u'www.baidu.com' to ALLOWED_HOSTS.
+[14/Feb/2018 02:45:40] "GET /cache/global/img/gs.gif HTTP/1.0" 400 61017
+Invalid HTTP_HOST header: 'fortet'. You may need to add u'fortet' to ALLOWED_HOSTS.
+[14/Feb/2018 05:50:45] "GET / HTTP/1.0" 400 60229
+[14/Feb/2018 07:36:11] "GET / HTTP/1.0" 200 951
+Not Found: /v2
+[14/Feb/2018 15:48:04] "GET /v2 HTTP/1.0" 404 2502
+Invalid HTTP_HOST header: 'www.baidu.com'. You may need to add u'www.baidu.com' to ALLOWED_HOSTS.
+[15/Feb/2018 01:10:24] "GET /cache/global/img/gs.gif HTTP/1.0" 400 61017
+Invalid HTTP_HOST header: 'www.baidu.com'. You may need to add u'www.baidu.com' to ALLOWED_HOSTS.
+[15/Feb/2018 23:32:12] "GET /cache/global/img/gs.gif HTTP/1.0" 400 61017
+Invalid HTTP_HOST header: 'fortet'. You may need to add u'fortet' to ALLOWED_HOSTS.
+[16/Feb/2018 02:58:57] "GET / HTTP/1.0" 400 60230
+Invalid HTTP_HOST header: 'www.baidu.com'. You may need to add u'www.baidu.com' to ALLOWED_HOSTS.
+[16/Feb/2018 13:11:34] "GET /cache/global/img/gs.gif HTTP/1.0" 400 61020
+Invalid HTTP_HOST header: 'www.baidu.com'. You may need to add u'www.baidu.com' to ALLOWED_HOSTS.
+[16/Feb/2018 21:52:58] "GET /cache/global/img/gs.gif HTTP/1.0" 400 61017
+Invalid HTTP_HOST header: 'www.baidu.com'. You may need to add u'www.baidu.com' to ALLOWED_HOSTS.
+[17/Feb/2018 20:04:42] "GET /cache/global/img/gs.gif HTTP/1.0" 400 61017
+Invalid HTTP_HOST header: 'fortet'. You may need to add u'fortet' to ALLOWED_HOSTS.
+[18/Feb/2018 04:02:01] "GET / HTTP/1.0" 400 60228
+Invalid HTTP_HOST header: 'www.baidu.com'. You may need to add u'www.baidu.com' to ALLOWED_HOSTS.
+[18/Feb/2018 18:12:05] "GET /cache/global/img/gs.gif HTTP/1.0" 400 61017
+[18/Feb/2018 18:35:24] "GET / HTTP/1.0" 200 951
+[18/Feb/2018 21:45:28] "GET / HTTP/1.0" 200 951
+Invalid HTTP_HOST header: 'www.baidu.com'. You may need to add u'www.baidu.com' to ALLOWED_HOSTS.
+[19/Feb/2018 16:13:35] "GET /cache/global/img/gs.gif HTTP/1.0" 400 61017
+Invalid HTTP_HOST header: 'www.baidu.com'. You may need to add u'www.baidu.com' to ALLOWED_HOSTS.
+[19/Feb/2018 21:51:23] "GET /cache/global/img/gs.gif HTTP/1.0" 400 61020
+[20/Feb/2018 00:23:49] "GET / HTTP/1.0" 200 951
+Invalid HTTP_HOST header: 'fortet'. You may need to add u'fortet' to ALLOWED_HOSTS.
+[20/Feb/2018 02:03:37] "GET / HTTP/1.0" 400 60229
+Invalid HTTP_HOST header: 'www.baidu.com'. You may need to add u'www.baidu.com' to ALLOWED_HOSTS.
+[20/Feb/2018 14:32:24] "GET /cache/global/img/gs.gif HTTP/1.0" 400 61017
+[20/Feb/2018 16:27:02] "GET / HTTP/1.0" 200 951
+[20/Feb/2018 16:27:02] "GET / HTTP/1.0" 200 951
+[20/Feb/2018 16:27:03] "GET / HTTP/1.0" 200 951
+Invalid HTTP_HOST header: 'www.baidu.com'. You may need to add u'www.baidu.com' to ALLOWED_HOSTS.
+[21/Feb/2018 12:06:55] "GET /cache/global/img/gs.gif HTTP/1.0" 400 61017
+Invalid HTTP_HOST header: 'fortet'. You may need to add u'fortet' to ALLOWED_HOSTS.
+[21/Feb/2018 23:50:43] "GET / HTTP/1.0" 400 60230
+[22/Feb/2018 06:12:12] "GET / HTTP/1.0" 200 951
+Invalid HTTP_HOST header: 'www.baidu.com'. You may need to add u'www.baidu.com' to ALLOWED_HOSTS.
+[22/Feb/2018 09:46:23] "GET /cache/global/img/gs.gif HTTP/1.0" 400 61017
+Invalid HTTP_HOST header: 'www.baidu.com'. You may need to add u'www.baidu.com' to ALLOWED_HOSTS.
+[23/Feb/2018 05:48:42] "GET /cache/global/img/gs.gif HTTP/1.0" 400 61020
+Invalid HTTP_HOST header: 'www.baidu.com'. You may need to add u'www.baidu.com' to ALLOWED_HOSTS.
+[23/Feb/2018 07:28:43] "GET /cache/global/img/gs.gif HTTP/1.0" 400 61017
+Invalid HTTP_HOST header: 'fortet'. You may need to add u'fortet' to ALLOWED_HOSTS.
+[23/Feb/2018 22:42:29] "GET / HTTP/1.0" 400 60229
+Invalid HTTP_HOST header: 'www.baidu.com'. You may need to add u'www.baidu.com' to ALLOWED_HOSTS.
+[25/Feb/2018 03:00:17] "GET /cache/global/img/gs.gif HTTP/1.0" 400 61017
+Invalid HTTP_HOST header: 'www.baidu.com'. You may need to add u'www.baidu.com' to ALLOWED_HOSTS.
+[26/Feb/2018 00:53:31] "GET /cache/global/img/gs.gif HTTP/1.0" 400 61017
+Invalid HTTP_HOST header: 'fortet'. You may need to add u'fortet' to ALLOWED_HOSTS.
+[26/Feb/2018 05:09:47] "GET / HTTP/1.0" 400 60229
+Invalid HTTP_HOST header: 'www.baidu.com'. You may need to add u'www.baidu.com' to ALLOWED_HOSTS.
+[26/Feb/2018 13:51:42] "GET /cache/global/img/gs.gif HTTP/1.0" 400 61020
+Invalid HTTP_HOST header: 'www.baidu.com'. You may need to add u'www.baidu.com' to ALLOWED_HOSTS.
+[26/Feb/2018 22:44:25] "GET /cache/global/img/gs.gif HTTP/1.0" 400 61017

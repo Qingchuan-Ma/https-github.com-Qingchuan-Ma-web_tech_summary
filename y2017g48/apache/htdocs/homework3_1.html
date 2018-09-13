@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>Homework3</title>
+<link rel="stylesheet" type="text/css" href="./css/homework3.css">
+<meta charset="utf-8">
+
+<style type="text/css">
+  #primary, #content, #secondary
+  {
+    text-align: left;
+    word-wrap:break-word;
+    padding-bottom:20000px;
+    margin-bottom: -20000px;
+  }
+
+  #primary p, #content p, #secondary p
+  {
+    text-align: center;
+    font-weight: bold
+  }
+
+/*-----------------------------------------*/
+  #container
+  {
+    overflow: hidden;
+    padding-top: 12px;
+  }
+
+  #primary
+  {
+    float:left;
+    width:20%;
+  }
+
+  #content
+  {
+    float:left;
+    width:60%;
+  }
+
+  #secondary
+  {
+    float:right ;
+    width:20%;
+  }
+/*--------------------------------------*/
+</style>
+
+</head>
+
+<body>
+
+	<div id="header" style="background: #97FFFF">
+		<p>Header</p>
+	</div>
+
+  <div id="container">
+
+	<div id="primary" contenteditable="true" style="background:#F0FFFF">
+		<p>Primary Sidebar</p>
+
+test br<br>
+test br<br>
+test br<br>
+test br<br>
+test br<br>
+test br<br>
+test br<br>
+test br<br>
+You also can test by yourself<br>
+input whatever you want here:
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+	</div>
+
+
+	<div id="content" style="background:#8F8F8F">
+		<p>Main content</p>
+    There exist six ways to make two divs'height the same including js.
+    <br>
+
+    Here I use negetive margin by css, the code lists below,
+    <br>
+
+    #primary, #content, #secondary<br>
+    {<br>
+      text-align: left;<br>
+      word-wrap:break-word;<br>
+      padding-bottom:20000px;<br>
+      margin-bottom: -20000px;<br>
+    }<br>
+
+    By this way, two divs will have the same height;<br>
+
+    We test it by using br tag liking left column.<br>
+
+    <br>
+    Passed CSS Validation Service and HTML Validation,but I didn't found HTML icon.<br>
+
+    And it told me that "Document checking completed. No errors or warnings to show." <br>
+
+    What's more,I tested my layout in many browsers. And My layout has the same appearance in IE6, IE7+, Opera, Safari.
+
+    <br>
+    <a>
+    <img src="./images/css.gif"/>
+    </a><br>
+
+    <button type="button" class="ui-button" onclick="window.location.href='./index.html'" style="text-align:left">Return to Homepage</button>
+	</div>
+
+	<div id="secondary" style="background:#F0FFFF">
+		<p>Secondary Sidebar</p>
+    HomeWork Target:<br>
+    1.The left column and the right column must be of the same width, which could be fixed.<br>
+    2.The right column always floats to the right.<br>
+    3.The left column and the right column must be of the same height no matter what do they contain.<br>
+    4.Inline style, Internal style sheet and External style sheet must all be used in the homework.<br>
+    <br>
+    Finished:<br>
+    1.seeing Internal Style css<br>
+    2.using float:right<br>
+    3.test by right column<br>
+    4.background uses Inline style, header and footer use External style, others use Internal style
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+
+	</div>
+
+
+</div>
+	<div id="footer" style="background: #B4EEB4">
+		<p>Footer</p>
+	</div>
+
+</body>
+</html>

@@ -1,0 +1,36 @@
+<html>
+<head>
+<title>
+  Results
+</title>
+</head>
+
+<body style="text-align:center">
+  <h1>Here is the Results of this Questionare</h1>
+{% if person_list %}
+  <table align="center" border="1">
+    <tr>
+      <th>Name</th>
+      <th>Age</th>
+      <th>Gender</th>
+      <th>E_mail</th>
+    </tr>
+    {% for person in person_list %}
+    <tr>
+      <th> {{ person.name }} </th>
+      <th> {{ person.age }} </th>
+      <th> {{ person.gender }} </th>
+      <th> {{ person.e_mail }} </th>
+    {% endfor %}
+  </tr>
+{% else %}
+    <p>No Person Filled the Questionare</p>
+{% endif %}
+
+
+
+<div>
+<button onclick="window.location.href='{% url 'Questionare:index' %}'">Return</button>
+</div>
+</body>
+</html>
